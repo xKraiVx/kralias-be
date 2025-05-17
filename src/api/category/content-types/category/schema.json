@@ -1,0 +1,39 @@
+{
+  "kind": "collectionType",
+  "collectionName": "categories",
+  "info": {
+    "singularName": "category",
+    "pluralName": "categories",
+    "displayName": "Category",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "name": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "required": true
+    },
+    "words": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::word.word",
+      "mappedBy": "categories"
+    },
+    "slug": {
+      "type": "uid",
+      "required": true
+    }
+  }
+}

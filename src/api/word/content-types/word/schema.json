@@ -1,0 +1,34 @@
+{
+  "kind": "collectionType",
+  "collectionName": "words",
+  "info": {
+    "singularName": "word",
+    "pluralName": "words",
+    "displayName": "Word"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {
+    "i18n": {
+      "localized": true
+    }
+  },
+  "attributes": {
+    "name": {
+      "type": "string",
+      "pluginOptions": {
+        "i18n": {
+          "localized": true
+        }
+      },
+      "required": true
+    },
+    "categories": {
+      "type": "relation",
+      "relation": "manyToMany",
+      "target": "api::category.category",
+      "inversedBy": "words"
+    }
+  }
+}
