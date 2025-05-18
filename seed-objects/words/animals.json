@@ -1,0 +1,572 @@
+[
+  {
+    "en": {
+      "word": "Cat",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Кіт",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Dog",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Собака",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Cow",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Корова",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Horse",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Кінь",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Pig",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Свиня",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Goat",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Коза",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Sheep",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Вівця",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Rabbit",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Кролик",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Chicken",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Курка",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Duck",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Качка",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Turkey",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Індик",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Wolf",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Вовк",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Fox",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Лисиця",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Bear",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Ведмідь",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Deer",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Олень",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Squirrel",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Білка",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Mouse",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Миша",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Hedgehog",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Їжак",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Beaver",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Бобер",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Frog",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Жаба",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Lizard",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Ящірка",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Snake",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Змія",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Elephant",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Слон",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Lion",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Лев",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Tiger",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Тигр",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Giraffe",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Жираф",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Zebra",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Зебра",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Rhino",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Носоріг",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Monkey",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Мавпа",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Crocodile",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Крокодил",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Panda",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Панда",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Koala",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Коала",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Sloth",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Лінивець",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Skunk",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Скунс",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Camel",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Верблюд",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Dove",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Голуб",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Owl",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Сова",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Bat",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Кажан",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Eagle",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Орел",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Flamingo",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Фламінго",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Beetle",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Жук",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Butterfly",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Метелик",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Bee",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Бджола",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Spider",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Павук",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Ant",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Мураха",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Ladybug",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Сонечко",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Grasshopper",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Коник-стрибунець",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Fly",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Муха",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Cockroach",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Тарган",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Dolphin",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Дельфін",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Whale",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Кит",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Shark",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Акула",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Octopus",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Восьминіг",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Crab",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Краб",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Turtle",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Черепаха",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Seal",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Тюлень",
+      "category_id": 32
+    }
+  },
+  {
+    "en": {
+      "word": "Penguin",
+      "category_id": 4
+    },
+    "uk": {
+      "word": "Пінгвін",
+      "category_id": 4
+    }
+  }
+]

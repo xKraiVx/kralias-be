@@ -1,0 +1,512 @@
+[
+  {
+    "en": {
+      "word": "Ukraine",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Україна",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "River",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Річка",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Mountain",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Гора",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Lake",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Озеро",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Sea",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Море",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Ocean",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Океан",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Island",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Острів",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Peninsula",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Півострів",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Desert",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Пустеля",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Forest",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Ліс",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Valley",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Долина",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Hill",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Пагорб",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Plain",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Рівнина",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Plateau",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Плато",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Canyon",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Каньйон",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Volcano",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Вулкан",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Glacier",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Льодовик",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Waterfall",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Водоспад",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Bay",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Затока",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Gulf",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Залив",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Strait",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Протока",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Archipelago",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Архіпелаг",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Continent",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Континент",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Country",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Країна",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Capital",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Столиця",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "City",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Місто",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Town",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Селище",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Village",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Село",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Region",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Регіон",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "District",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Район",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Border",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Кордон",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Map",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Карта",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Compass",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Компас",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Equator",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Екватор",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Latitude",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Географічна широта",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Longitude",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Географічна довгота",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Hemisphere",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Півкуля",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Climate",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Клімат",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Weather",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Погода",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Terrain",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Рельєф",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Altitude",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Висота",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Depth",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Глибина",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Coast",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Узбережжя",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Shore",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Берег",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Beach",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Пляж",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Cliff",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Скеля",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Cave",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Печера",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Basin",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Басейн",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Delta",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Дельта",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Marsh",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Болото",
+      "category_id": 52
+    }
+  },
+  {
+    "en": {
+      "word": "Swamp",
+      "category_id": 24
+    },
+    "uk": {
+      "word": "Трясина",
+      "category_id": 24
+    }
+  }
+]
