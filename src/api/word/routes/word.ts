@@ -2,6 +2,8 @@
  * word router
  */
 
-import { factories } from '@strapi/strapi';
+import { factories } from "@strapi/strapi";
 
-export default factories.createCoreRouter('api::word.word');
+export default factories.createCoreRouter("api::word.word", {
+  only: ["wordsForGame"],
+});
