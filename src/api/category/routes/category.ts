@@ -5,5 +5,5 @@
 import { factories } from "@strapi/strapi";
 
 export default factories.createCoreRouter("api::category.category", {
-  only: ["categoriesForGame"],
+  only: ["categoriesForGame", "find"],
 });
