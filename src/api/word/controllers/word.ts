@@ -34,29 +34,52 @@ export default factories.createCoreController(
         );
       }
 
-      const { results } = await strapi.service("api::word.word").find({
-        fields: ["id", "name"],
-        filters: {
-          categories: {
-            slug: {
-              $in: categoriesArray,
+      const wordsByCategories = await Promise.all(
+        categoriesArray.map(async (category) => {
+          const { results } = await strapi.service("api::word.word").find({
+            fields: ["id", "name"],
+            filters: {
+              categories: {
+                slug: {
+                  $eq: category,
+                },
+              },
             },
-          },
-        },
-        populate: {
-          categories: {
-            fields: ["id"],
-          },
-        },
-        sort: ["updatedAt:asc"],
-        pagination: {
-          pageSize: Number(wordsCount),
-        },
-      });
+            populate: {
+              categories: {
+                fields: ["id"],
+              },
+            },
+            sort: ["updatedAt:asc"],
+            pagination: {
+              pageSize: Number(wordsCount),
+            },
+          });
 
-      console.log("getWordsForGame results", { results });
+          return results;
+        })
+      );
 
-      const sanitizedResults = await this.sanitizeOutput(results, ctx);
+      let wordsFromArray = Math.floor(wordsCount / categoriesArray.length);
+
+      const chosenWords = wordsByCategories.reduce((acc, words, idx) => {
+        if (acc.length >= wordsCount) {
+          return acc;
+        }
+
+        if (idx === wordsByCategories.length - 1) {
+          wordsFromArray = wordsCount - acc.length;
+        }
+
+        const randomWords = words
+          .sort(() => 0.5 - Math.random())
+          .slice(0, wordsFromArray);
+        acc.push(...randomWords);
+
+        return acc;
+      }, []);
+
+      const sanitizedResults = await this.sanitizeOutput(chosenWords, ctx);
 
       return this.transformResponse(sanitizedResults);
     },
