@@ -1,0 +1,1277 @@
+[
+  {
+    "en": { "word": "Actor", "category_id": 5 },
+    "uk": { "word": "Актор", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Director", "category_id": 5 },
+    "uk": { "word": "Режисер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Screenplay", "category_id": 5 },
+    "uk": { "word": "Сценарій", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Soundtrack", "category_id": 5 },
+    "uk": { "word": "Саундтрек", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Trailer", "category_id": 5 },
+    "uk": { "word": "Трейлер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Cinema", "category_id": 5 },
+    "uk": { "word": "Кінотеатр", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Popcorn", "category_id": 5 },
+    "uk": { "word": "Попкорн", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Credits", "category_id": 5 },
+    "uk": { "word": "Титри", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Blockbuster", "category_id": 5 },
+    "uk": { "word": "Блокбастер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Award", "category_id": 5 },
+    "uk": { "word": "Нагорода", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Oscar", "category_id": 5 },
+    "uk": { "word": "Оскар", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Stunt", "category_id": 5 },
+    "uk": { "word": "Трюк", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Premiere", "category_id": 5 },
+    "uk": { "word": "Прем’єра", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Sequel", "category_id": 5 },
+    "uk": { "word": "Сиквел", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Genre", "category_id": 5 },
+    "uk": { "word": "Жанр", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Casting", "category_id": 5 },
+    "uk": { "word": "Кастинг", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Dialogue", "category_id": 5 },
+    "uk": { "word": "Діалог", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Plot", "category_id": 5 },
+    "uk": { "word": "Сюжет", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Scene", "category_id": 5 },
+    "uk": { "word": "Сцена", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Hero", "category_id": 5 },
+    "uk": { "word": "Герой", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Villain", "category_id": 5 },
+    "uk": { "word": "Лиходій", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Costume", "category_id": 5 },
+    "uk": { "word": "Костюм", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Makeup", "category_id": 5 },
+    "uk": { "word": "Грим", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Lighting", "category_id": 5 },
+    "uk": { "word": "Освітлення", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Camera", "category_id": 5 },
+    "uk": { "word": "Камера", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Editing", "category_id": 5 },
+    "uk": { "word": "Монтаж", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Cinematography", "category_id": 5 },
+    "uk": { "word": "Кінематографія", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Visual effects", "category_id": 5 },
+    "uk": { "word": "Візуальні ефекти", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Animation", "category_id": 5 },
+    "uk": { "word": "Анімація", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Voiceover", "category_id": 5 },
+    "uk": { "word": "Озвучка", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Dub", "category_id": 5 },
+    "uk": { "word": "Дубляж", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Ticket", "category_id": 5 },
+    "uk": { "word": "Квиток", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Subtitle", "category_id": 5 },
+    "uk": { "word": "Субтитри", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Classic", "category_id": 5 },
+    "uk": { "word": "Класика", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Drama", "category_id": 5 },
+    "uk": { "word": "Драма", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Comedy", "category_id": 5 },
+    "uk": { "word": "Комедія", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Thriller", "category_id": 5 },
+    "uk": { "word": "Трилер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Horror", "category_id": 5 },
+    "uk": { "word": "Жахи", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Romance", "category_id": 5 },
+    "uk": { "word": "Романтика", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Musical", "category_id": 5 },
+    "uk": { "word": "Мюзикл", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Documentary", "category_id": 5 },
+    "uk": { "word": "Документальний фільм", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Series", "category_id": 5 },
+    "uk": { "word": "Серіал", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Episode", "category_id": 5 },
+    "uk": { "word": "Епізод", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Studio", "category_id": 5 },
+    "uk": { "word": "Студія", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Casting director", "category_id": 5 },
+    "uk": { "word": "Кастинг-директор", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Producer", "category_id": 5 },
+    "uk": { "word": "Продюсер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Audience", "category_id": 5 },
+    "uk": { "word": "Аудиторія", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Narration", "category_id": 5 },
+    "uk": { "word": "Оповідання", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Festival", "category_id": 5 },
+    "uk": { "word": "Фестиваль", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Climax", "category_id": 5 },
+    "uk": { "word": "Кульмінація", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Storyline", "category_id": 5 },
+    "uk": { "word": "Сюжетна лінія", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Flashback", "category_id": 5 },
+    "uk": { "word": "Флешбек", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Opening", "category_id": 5 },
+    "uk": { "word": "Початок", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Ending", "category_id": 5 },
+    "uk": { "word": "Кінцівка", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Credits roll", "category_id": 5 },
+    "uk": { "word": "Кінцеві титри", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Theme", "category_id": 5 },
+    "uk": { "word": "Тема", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Conflict", "category_id": 5 },
+    "uk": { "word": "Конфлікт", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Resolution", "category_id": 5 },
+    "uk": { "word": "Розв'язка", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Production", "category_id": 5 },
+    "uk": { "word": "Виробництво", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Independent film", "category_id": 5 },
+    "uk": { "word": "Незалежний фільм", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Scene cut", "category_id": 5 },
+    "uk": { "word": "Зміна сцени", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Behind the scenes", "category_id": 5 },
+    "uk": { "word": "За лаштунками", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Background music", "category_id": 5 },
+    "uk": { "word": "Фонова музика", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Lead role", "category_id": 5 },
+    "uk": { "word": "Головна роль", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Supporting role", "category_id": 5 },
+    "uk": { "word": "Другорядна роль", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Critic", "category_id": 5 },
+    "uk": { "word": "Критик", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Review", "category_id": 5 },
+    "uk": { "word": "Огляд", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Rating", "category_id": 5 },
+    "uk": { "word": "Рейтинг", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Film reel", "category_id": 5 },
+    "uk": { "word": "Кіноплівка", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Scene transition", "category_id": 5 },
+    "uk": { "word": "Перехід між сценами", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Lighting technician", "category_id": 5 },
+    "uk": { "word": "Світлотехнік", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Sound engineer", "category_id": 5 },
+    "uk": { "word": "Звукоінженер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Boom mic", "category_id": 5 },
+    "uk": { "word": "Бум-мікрофон", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Film score", "category_id": 5 },
+    "uk": { "word": "Музика до фільму", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Prop", "category_id": 5 },
+    "uk": { "word": "Реквізит", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Green screen", "category_id": 5 },
+    "uk": { "word": "Зелений екран", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Set", "category_id": 5 },
+    "uk": { "word": "Знімальний майданчик", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Casting call", "category_id": 5 },
+    "uk": { "word": "Оголошення кастингу", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Cut!", "category_id": 5 },
+    "uk": { "word": "Стоп!", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Action!", "category_id": 5 },
+    "uk": { "word": "Мотор!", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Take", "category_id": 5 },
+    "uk": { "word": "Дубль", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Shot", "category_id": 5 },
+    "uk": { "word": "Кадр", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Wide shot", "category_id": 5 },
+    "uk": { "word": "Загальний план", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Close-up", "category_id": 5 },
+    "uk": { "word": "Крупний план", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Pan", "category_id": 5 },
+    "uk": { "word": "Панорамування", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Zoom", "category_id": 5 },
+    "uk": { "word": "Зум", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Steadicam", "category_id": 5 },
+    "uk": { "word": "Стадікам", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Boom operator", "category_id": 5 },
+    "uk": { "word": "Оператор бум-мікрофона", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Cameo", "category_id": 5 },
+    "uk": { "word": "Камео", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Plot twist", "category_id": 5 },
+    "uk": { "word": "Неочікуваний поворот", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Cliffhanger", "category_id": 5 },
+    "uk": { "word": "Напружена розв’язка", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Foreshadowing", "category_id": 5 },
+    "uk": { "word": "Передвістка", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Box office", "category_id": 5 },
+    "uk": { "word": "Касові збори", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Behind the camera", "category_id": 5 },
+    "uk": { "word": "За камерою", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Film industry", "category_id": 5 },
+    "uk": { "word": "Кіноіндустрія", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Movie buff", "category_id": 5 },
+    "uk": { "word": "Кіноман", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Leonardo DiCaprio", "category_id": 5 },
+    "uk": { "word": "Леонардо Ді Капріо", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Tom Hanks", "category_id": 5 },
+    "uk": { "word": "Том Генкс", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Meryl Streep", "category_id": 5 },
+    "uk": { "word": "Меріл Стріп", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Angelina Jolie", "category_id": 5 },
+    "uk": { "word": "Анджеліна Джолі", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Brad Pitt", "category_id": 5 },
+    "uk": { "word": "Бред Пітт", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Robert De Niro", "category_id": 5 },
+    "uk": { "word": "Роберт Де Ніро", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Al Pacino", "category_id": 5 },
+    "uk": { "word": "Аль Пачіно", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Johnny Depp", "category_id": 5 },
+    "uk": { "word": "Джонні Депп", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Scarlett Johansson", "category_id": 5 },
+    "uk": { "word": "Скарлетт Йоганссон", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Keanu Reeves", "category_id": 5 },
+    "uk": { "word": "Кіану Рівз", "category_id": 33 }
+  },
+
+  {
+    "en": { "word": "James Bond", "category_id": 5 },
+    "uk": { "word": "Джеймс Бонд", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Indiana Jones", "category_id": 5 },
+    "uk": { "word": "Індіана Джонс", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Forrest Gump", "category_id": 5 },
+    "uk": { "word": "Форрест Гамп", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Rocky Balboa", "category_id": 5 },
+    "uk": { "word": "Роккі Бальбоа", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Harry Potter", "category_id": 5 },
+    "uk": { "word": "Гаррі Поттер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Tony Stark", "category_id": 5 },
+    "uk": { "word": "Тоні Старк", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Captain Jack Sparrow", "category_id": 5 },
+    "uk": { "word": "Капітан Джек Горобець", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Luke Skywalker", "category_id": 5 },
+    "uk": { "word": "Люк Скайвокер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Darth Vader", "category_id": 5 },
+    "uk": { "word": "Дарт Вейдер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Black Panther", "category_id": 5 },
+    "uk": { "word": "Чорна Пантера", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Titanic", "category_id": 5 },
+    "uk": { "word": "Титанік", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Avatar", "category_id": 5 },
+    "uk": { "word": "Аватар", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Godfather", "category_id": 5 },
+    "uk": { "word": "Хрещений батько", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Pulp Fiction", "category_id": 5 },
+    "uk": { "word": "Кримінальне чтиво", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Shawshank Redemption", "category_id": 5 },
+    "uk": { "word": "Втеча з Шоушенка", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Matrix", "category_id": 5 },
+    "uk": { "word": "Матриця", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Inception", "category_id": 5 },
+    "uk": { "word": "Початок", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Interstellar", "category_id": 5 },
+    "uk": { "word": "Інтерстеллар", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Avengers", "category_id": 5 },
+    "uk": { "word": "Месники", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Iron Man", "category_id": 5 },
+    "uk": { "word": "Залізна людина", "category_id": 33 }
+  },
+
+  {
+    "en": { "word": "Frozen", "category_id": 5 },
+    "uk": { "word": "Крижане серце", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Finding Nemo", "category_id": 5 },
+    "uk": { "word": "У пошуках Немо", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Toy Story", "category_id": 5 },
+    "uk": { "word": "Історія іграшок", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Shrek", "category_id": 5 },
+    "uk": { "word": "Шрек", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Gladiator", "category_id": 5 },
+    "uk": { "word": "Гладіатор", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Dark Knight", "category_id": 5 },
+    "uk": { "word": "Темний лицар", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Joker", "category_id": 5 },
+    "uk": { "word": "Джокер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Star Wars", "category_id": 5 },
+    "uk": { "word": "Зоряні війни", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Lord of the Rings", "category_id": 5 },
+    "uk": { "word": "Володар перснів", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Hobbit", "category_id": 5 },
+    "uk": { "word": "Гобіт", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Oscar", "category_id": 5 },
+    "uk": { "word": "Оскар", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Golden Globe", "category_id": 5 },
+    "uk": { "word": "Золотий глобус", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Cannes", "category_id": 5 },
+    "uk": { "word": "Канни", "category_id": 33 }
+  },
+  {
+    "en": { "word": "BAFTA", "category_id": 5 },
+    "uk": { "word": "БАФТА", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Sundance", "category_id": 5 },
+    "uk": { "word": "Санденс", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Netflix", "category_id": 5 },
+    "uk": { "word": "Нетфлікс", "category_id": 33 }
+  },
+  {
+    "en": { "word": "HBO", "category_id": 5 },
+    "uk": { "word": "ГБО", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Marvel Studios", "category_id": 5 },
+    "uk": { "word": "Марвел Студіос", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Warner Bros.", "category_id": 5 },
+    "uk": { "word": "Ворнер Бразерс", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Universal Pictures", "category_id": 5 },
+    "uk": { "word": "Юніверсал Пікчерс", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Streaming", "category_id": 5 },
+    "uk": { "word": "Стрімінг", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Watchlist", "category_id": 5 },
+    "uk": { "word": "Список перегляду", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Fan theory", "category_id": 5 },
+    "uk": { "word": "Фанатська теорія", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Spoiler", "category_id": 5 },
+    "uk": { "word": "Спойлер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Plot hole", "category_id": 5 },
+    "uk": { "word": "Нелогічність у сюжеті", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Post-credit scene", "category_id": 5 },
+    "uk": { "word": "Сцена після титрів", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Reboot", "category_id": 5 },
+    "uk": { "word": "Перезапуск", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Spin-off", "category_id": 5 },
+    "uk": { "word": "Спін-офф", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Crossover", "category_id": 5 },
+    "uk": { "word": "Кросовер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Box set", "category_id": 5 },
+    "uk": { "word": "Комплект дисків", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Lion King", "category_id": 5 },
+    "uk": { "word": "Король Лев", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Beauty and the Beast", "category_id": 5 },
+    "uk": { "word": "Красуня і Чудовисько", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Aladdin", "category_id": 5 },
+    "uk": { "word": "Аладдін", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Mulan", "category_id": 5 },
+    "uk": { "word": "Мулан", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Moana", "category_id": 5 },
+    "uk": { "word": "Моана", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Zootopia", "category_id": 5 },
+    "uk": { "word": "Зоотрополіс", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Coco", "category_id": 5 },
+    "uk": { "word": "Коко", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Ratatouille", "category_id": 5 },
+    "uk": { "word": "Рататуй", "category_id": 33 }
+  },
+  {
+    "en": { "word": "WALL-E", "category_id": 5 },
+    "uk": { "word": "ВАЛЛ-І", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Up", "category_id": 5 },
+    "uk": { "word": "Вгору", "category_id": 33 }
+  },
+
+  {
+    "en": { "word": "Inside Out", "category_id": 5 },
+    "uk": { "word": "Думками навиворіт", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Soul", "category_id": 5 },
+    "uk": { "word": "Душа", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Turning Red", "category_id": 5 },
+    "uk": { "word": "Я червонію", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Encanto", "category_id": 5 },
+    "uk": { "word": "Енканто", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Luca", "category_id": 5 },
+    "uk": { "word": "Лука", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Frozen II", "category_id": 5 },
+    "uk": { "word": "Крижане серце 2", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Cars", "category_id": 5 },
+    "uk": { "word": "Тачки", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Brave", "category_id": 5 },
+    "uk": { "word": "Хоробра серцем", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Big Hero 6", "category_id": 5 },
+    "uk": { "word": "Місто героїв", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Tangled", "category_id": 5 },
+    "uk": { "word": "Рапунцель", "category_id": 33 }
+  },
+
+  {
+    "en": { "word": "Maleficent", "category_id": 5 },
+    "uk": { "word": "Малефісента", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Cruella", "category_id": 5 },
+    "uk": { "word": "Круелла", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Alice in Wonderland", "category_id": 5 },
+    "uk": { "word": "Аліса в країні чудес", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Dumbo", "category_id": 5 },
+    "uk": { "word": "Дамбо", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Jungle Book", "category_id": 5 },
+    "uk": { "word": "Книга джунглів", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Peter Pan", "category_id": 5 },
+    "uk": { "word": "Пітер Пен", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Pinocchio", "category_id": 5 },
+    "uk": { "word": "Піноккіо", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Cinderella", "category_id": 5 },
+    "uk": { "word": "Попелюшка", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Snow White", "category_id": 5 },
+    "uk": { "word": "Білосніжка", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Sleeping Beauty", "category_id": 5 },
+    "uk": { "word": "Спляча красуня", "category_id": 33 }
+  },
+
+  {
+    "en": { "word": "Minions", "category_id": 5 },
+    "uk": { "word": "Міньйони", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Despicable Me", "category_id": 5 },
+    "uk": { "word": "Нікчемний я", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Secret Life of Pets", "category_id": 5 },
+    "uk": { "word": "Секрети домашніх тварин", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Sing", "category_id": 5 },
+    "uk": { "word": "Співай", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Grinch", "category_id": 5 },
+    "uk": { "word": "Грінч", "category_id": 33 }
+  },
+  {
+    "en": { "word": "How the Grinch Stole Christmas", "category_id": 5 },
+    "uk": { "word": "Як Грінч украв Різдво", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Lorax", "category_id": 5 },
+    "uk": { "word": "Лоракс", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Ice Age", "category_id": 5 },
+    "uk": { "word": "Льодовиковий період", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Madagascar", "category_id": 5 },
+    "uk": { "word": "Мадагаскар", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Kung Fu Panda", "category_id": 5 },
+    "uk": { "word": "Панда Кунг-Фу", "category_id": 33 }
+  },
+
+  {
+    "en": { "word": "How to Train Your Dragon", "category_id": 5 },
+    "uk": { "word": "Як приручити дракона", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Shark Tale", "category_id": 5 },
+    "uk": { "word": "Підводна братва", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Croods", "category_id": 5 },
+    "uk": { "word": "Сімейка Крудсів", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Monsters, Inc.", "category_id": 5 },
+    "uk": { "word": "Корпорація монстрів", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Finding Dory", "category_id": 5 },
+    "uk": { "word": "У пошуках Дорі", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Lightyear", "category_id": 5 },
+    "uk": { "word": "Лайтєр", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Puss in Boots", "category_id": 5 },
+    "uk": { "word": "Кіт у чоботях", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Megamind", "category_id": 5 },
+    "uk": { "word": "Мегамозок", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Bad Guys", "category_id": 5 },
+    "uk": { "word": "Погані хлопці", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Boss Baby", "category_id": 5 },
+    "uk": { "word": "Бебі Бос", "category_id": 33 }
+  },
+
+  {
+    "en": { "word": "Hotel Transylvania", "category_id": 5 },
+    "uk": { "word": "Монстри на канікулах", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Cloudy with a Chance of Meatballs", "category_id": 5 },
+    "uk": { "word": "Мінлива хмарність, часом фрикадельки", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Open Season", "category_id": 5 },
+    "uk": { "word": "Сезон полювання", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Rio", "category_id": 5 },
+    "uk": { "word": "Ріо", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Happy Feet", "category_id": 5 },
+    "uk": { "word": "Лови хвилю", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Surf's Up", "category_id": 5 },
+    "uk": { "word": "Мульт на хвилі", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Peanuts Movie", "category_id": 5 },
+    "uk": { "word": "Снупі і Чарлі Браун", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Angry Birds Movie", "category_id": 5 },
+    "uk": { "word": "Angry Birds у кіно", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Trolls", "category_id": 5 },
+    "uk": { "word": "Тролі", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Sing 2", "category_id": 5 },
+    "uk": { "word": "Співай 2", "category_id": 33 }
+  },
+
+  {
+    "en": { "word": "Wish Dragon", "category_id": 5 },
+    "uk": { "word": "Дракон бажань", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Sea Beast", "category_id": 5 },
+    "uk": { "word": "Морське чудовисько", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Mitchells vs. the Machines", "category_id": 5 },
+    "uk": { "word": "Мітчелли проти машин", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Ron’s Gone Wrong", "category_id": 5 },
+    "uk": { "word": "Неідеальний робот", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Strange World", "category_id": 5 },
+    "uk": { "word": "Дивний світ", "category_id": 33 }
+  },
+  {
+    "en": { "word": "My Father's Dragon", "category_id": 5 },
+    "uk": { "word": "Дракон мого батька", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Spies in Disguise", "category_id": 5 },
+    "uk": { "word": "Шпигуни під прикриттям", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Monster Family", "category_id": 5 },
+    "uk": { "word": "Монстрична родина", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Space Jam", "category_id": 5 },
+    "uk": { "word": "Космічний джем", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Chicken Run", "category_id": 5 },
+    "uk": { "word": "Втеча з курника", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Denzel Washington", "category_id": 5 },
+    "uk": { "word": "Дензел Вашингтон", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Emma Stone", "category_id": 5 },
+    "uk": { "word": "Емма Стоун", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Ryan Gosling", "category_id": 5 },
+    "uk": { "word": "Раян Гослінг", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Natalie Portman", "category_id": 5 },
+    "uk": { "word": "Наталі Портман", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Tom Cruise", "category_id": 5 },
+    "uk": { "word": "Том Круз", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Matt Damon", "category_id": 5 },
+    "uk": { "word": "Метт Деймон", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Chris Evans", "category_id": 5 },
+    "uk": { "word": "Кріс Еванс", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Chris Hemsworth", "category_id": 5 },
+    "uk": { "word": "Кріс Гемсворт", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Mark Ruffalo", "category_id": 5 },
+    "uk": { "word": "Марк Раффало", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Jeremy Renner", "category_id": 5 },
+    "uk": { "word": "Джеремі Реннер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Gal Gadot", "category_id": 5 },
+    "uk": { "word": "Галь Гадот", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Jason Momoa", "category_id": 5 },
+    "uk": { "word": "Джейсон Момоа", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Ezra Miller", "category_id": 5 },
+    "uk": { "word": "Езра Міллер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Ben Affleck", "category_id": 5 },
+    "uk": { "word": "Бен Аффлек", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Christian Bale", "category_id": 5 },
+    "uk": { "word": "Крістіан Бейл", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Michael Caine", "category_id": 5 },
+    "uk": { "word": "Майкл Кейн", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Anne Hathaway", "category_id": 5 },
+    "uk": { "word": "Енн Гетевей", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Hugh Jackman", "category_id": 5 },
+    "uk": { "word": "Г'ю Джекман", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Patrick Stewart", "category_id": 5 },
+    "uk": { "word": "Патрік Стюарт", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Ian McKellen", "category_id": 5 },
+    "uk": { "word": "Ієн МакКеллен", "category_id": 33 }
+  },
+
+  {
+    "en": { "word": "Magneto", "category_id": 5 },
+    "uk": { "word": "Магнето", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Wolverine", "category_id": 5 },
+    "uk": { "word": "Росомаха", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Professor X", "category_id": 5 },
+    "uk": { "word": "Професор Ікс", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Storm", "category_id": 5 },
+    "uk": { "word": "Шторм", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Jean Grey", "category_id": 5 },
+    "uk": { "word": "Джин Грей", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Deadpool", "category_id": 5 },
+    "uk": { "word": "Дедпул", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Thanos", "category_id": 5 },
+    "uk": { "word": "Танос", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Thor", "category_id": 5 },
+    "uk": { "word": "Тор", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Loki", "category_id": 5 },
+    "uk": { "word": "Локі", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Hawkeye", "category_id": 5 },
+    "uk": { "word": "Соколине око", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Black Widow", "category_id": 5 },
+    "uk": { "word": "Чорна вдова", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Doctor Strange", "category_id": 5 },
+    "uk": { "word": "Доктор Стрендж", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Vision", "category_id": 5 },
+    "uk": { "word": "Віжн", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Scarlet Witch", "category_id": 5 },
+    "uk": { "word": "Алая відьма", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Ant-Man", "category_id": 5 },
+    "uk": { "word": "Людина-мураха", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Wasp", "category_id": 5 },
+    "uk": { "word": "Оса", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Nick Fury", "category_id": 5 },
+    "uk": { "word": "Нік Ф'юрі", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Agent Coulson", "category_id": 5 },
+    "uk": { "word": "Агент Колсон", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Groot", "category_id": 5 },
+    "uk": { "word": "Грут", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Rocket Raccoon", "category_id": 5 },
+    "uk": { "word": "Ракета Єнот", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Star-Lord", "category_id": 5 },
+    "uk": { "word": "Зоряний Лорд", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Gamora", "category_id": 5 },
+    "uk": { "word": "Гамора", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Drax", "category_id": 5 },
+    "uk": { "word": "Дракс", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Mantis", "category_id": 5 },
+    "uk": { "word": "Мантіс", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Yondu", "category_id": 5 },
+    "uk": { "word": "Йонду", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Nebula", "category_id": 5 },
+    "uk": { "word": "Небула", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Peter Parker", "category_id": 5 },
+    "uk": { "word": "Пітер Паркер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Spider-Man", "category_id": 5 },
+    "uk": { "word": "Людина-павук", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Bruce Wayne", "category_id": 5 },
+    "uk": { "word": "Брюс Вейн", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Batman", "category_id": 5 },
+    "uk": { "word": "Бетмен", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Clark Kent", "category_id": 5 },
+    "uk": { "word": "Кларк Кент", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Superman", "category_id": 5 },
+    "uk": { "word": "Супермен", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Wonder Woman", "category_id": 5 },
+    "uk": { "word": "Диво-жінка", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Aquaman", "category_id": 5 },
+    "uk": { "word": "Аквамен", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Flash", "category_id": 5 },
+    "uk": { "word": "Флеш", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Green Lantern", "category_id": 5 },
+    "uk": { "word": "Зелений ліхтар", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Harley Quinn", "category_id": 5 },
+    "uk": { "word": "Гарлі Квінн", "category_id": 33 }
+  },
+  {
+    "en": { "word": "The Joker", "category_id": 5 },
+    "uk": { "word": "Джокер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Lex Luthor", "category_id": 5 },
+    "uk": { "word": "Лекс Лютор", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Catwoman", "category_id": 5 },
+    "uk": { "word": "Жінка-кішка", "category_id": 33 }
+  },
+
+  {
+    "en": { "word": "Yoda", "category_id": 5 },
+    "uk": { "word": "Йода", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Obi-Wan Kenobi", "category_id": 5 },
+    "uk": { "word": "Обі-Ван Кенобі", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Anakin Skywalker", "category_id": 5 },
+    "uk": { "word": "Енакін Скайвокер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Princess Leia", "category_id": 5 },
+    "uk": { "word": "Принцеса Лея", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Han Solo", "category_id": 5 },
+    "uk": { "word": "Хан Соло", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Kylo Ren", "category_id": 5 },
+    "uk": { "word": "Кайло Рен", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Rey", "category_id": 5 },
+    "uk": { "word": "Рей", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Finn", "category_id": 5 },
+    "uk": { "word": "Фінн", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Poe Dameron", "category_id": 5 },
+    "uk": { "word": "По Демерон", "category_id": 33 }
+  },
+  {
+    "en": { "word": "R2-D2", "category_id": 5 },
+    "uk": { "word": "R2-D2", "category_id": 33 }
+  },
+  {
+    "en": { "word": "C-3PO", "category_id": 5 },
+    "uk": { "word": "C-3PO", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Chewbacca", "category_id": 5 },
+    "uk": { "word": "Чубакка", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Padmé Amidala", "category_id": 5 },
+    "uk": { "word": "Падме Амідала", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Mace Windu", "category_id": 5 },
+    "uk": { "word": "Мейс Вінду", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Jabba the Hutt", "category_id": 5 },
+    "uk": { "word": "Джабба Хатт", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Boba Fett", "category_id": 5 },
+    "uk": { "word": "Боба Фетт", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Grogu", "category_id": 5 },
+    "uk": { "word": "Грогу", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Mando", "category_id": 5 },
+    "uk": { "word": "Мандо", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Ahsoka Tano", "category_id": 5 },
+    "uk": { "word": "Асока Тано", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Bo-Katan", "category_id": 5 },
+    "uk": { "word": "Бо-Катан", "category_id": 33 }
+  },
+
+  {
+    "en": { "word": "Sigourney Weaver", "category_id": 5 },
+    "uk": { "word": "Сігурні Вівер", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Kate Winslet", "category_id": 5 },
+    "uk": { "word": "Кейт Вінслет", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Daniel Radcliffe", "category_id": 5 },
+    "uk": { "word": "Деніел Редкліф", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Rupert Grint", "category_id": 5 },
+    "uk": { "word": "Руперт Грінт", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Emma Watson", "category_id": 5 },
+    "uk": { "word": "Емма Вотсон", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Alan Rickman", "category_id": 5 },
+    "uk": { "word": "Алан Рікман", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Ralph Fiennes", "category_id": 5 },
+    "uk": { "word": "Рейф Файнс", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Gary Oldman", "category_id": 5 },
+    "uk": { "word": "Гері Олдмен", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Maggie Smith", "category_id": 5 },
+    "uk": { "word": "Меггі Сміт", "category_id": 33 }
+  },
+  {
+    "en": { "word": "Michael Gambon", "category_id": 5 },
+    "uk": { "word": "Майкл Гембон", "category_id": 33 }
+  }
+]

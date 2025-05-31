@@ -1,11 +1,13 @@
 import animals from "../../seed-objects/words/animals.json";
 import geography from "../../seed-objects/words/geography.json";
+import biology from "../../seed-objects/words/biology.json";
+import movies from "../../seed-objects/words/movies.json";
 
 module.exports = {
   async up(knex) {
     const categories = {
       en: [
-        "Short Words",
+        "Biology",
         "Programming",
         "Fairy Tales",
         "Animals",
@@ -32,10 +34,9 @@ module.exports = {
         "Mathematics",
         "Physics",
         "Chemistry",
-        "Biology",
       ],
       uk: [
-        "Короткі слова",
+        "Біологія",
         "Програмування",
         "Казки",
         "Тварини",
@@ -62,7 +63,6 @@ module.exports = {
         "Математика",
         "Фізика",
         "Хімія",
-        "Біологія",
       ],
     };
 
@@ -78,7 +78,12 @@ module.exports = {
       uk: IWord;
     }
 
-    const localizedWordsArray: ILocalizedWord[] = [...animals, ...geography];
+    const localizedWordsArray: ILocalizedWord[] = [
+      ...animals,
+      ...geography,
+      ...biology,
+      ...movies,
+    ];
 
     //#region Seeding categories
 
