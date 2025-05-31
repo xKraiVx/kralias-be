@@ -1,1366 +1,1366 @@
 [
   {
     "en": { "word": "Cell", "category_id": 1 },
-    "uk": { "word": "Клітина", "category_id": 29 }
+    "uk": { "word": "Клітина", "category_id": 28 }
   },
   {
     "en": { "word": "Tissue", "category_id": 1 },
-    "uk": { "word": "Тканина", "category_id": 29 }
+    "uk": { "word": "Тканина", "category_id": 28 }
   },
   {
     "en": { "word": "Organ", "category_id": 1 },
-    "uk": { "word": "Орган", "category_id": 29 }
+    "uk": { "word": "Орган", "category_id": 28 }
   },
   {
     "en": { "word": "Skeleton", "category_id": 1 },
-    "uk": { "word": "Скелет", "category_id": 29 }
+    "uk": { "word": "Скелет", "category_id": 28 }
   },
   {
     "en": { "word": "Muscle", "category_id": 1 },
-    "uk": { "word": "М'яз", "category_id": 29 }
+    "uk": { "word": "М'яз", "category_id": 28 }
   },
   {
     "en": { "word": "Brain", "category_id": 1 },
-    "uk": { "word": "Мозок", "category_id": 29 }
+    "uk": { "word": "Мозок", "category_id": 28 }
   },
   {
     "en": { "word": "Heart", "category_id": 1 },
-    "uk": { "word": "Серце", "category_id": 29 }
+    "uk": { "word": "Серце", "category_id": 28 }
   },
   {
     "en": { "word": "Liver", "category_id": 1 },
-    "uk": { "word": "Печінка", "category_id": 29 }
+    "uk": { "word": "Печінка", "category_id": 28 }
   },
   {
     "en": { "word": "Lung", "category_id": 1 },
-    "uk": { "word": "Легеня", "category_id": 29 }
+    "uk": { "word": "Легеня", "category_id": 28 }
   },
   {
     "en": { "word": "Kidney", "category_id": 1 },
-    "uk": { "word": "Нирка", "category_id": 29 }
+    "uk": { "word": "Нирка", "category_id": 28 }
   },
   {
     "en": { "word": "Nerve", "category_id": 1 },
-    "uk": { "word": "Нерв", "category_id": 29 }
+    "uk": { "word": "Нерв", "category_id": 28 }
   },
   {
     "en": { "word": "Spine", "category_id": 1 },
-    "uk": { "word": "Хребет", "category_id": 29 }
+    "uk": { "word": "Хребет", "category_id": 28 }
   },
   {
     "en": { "word": "Skull", "category_id": 1 },
-    "uk": { "word": "Череп", "category_id": 29 }
+    "uk": { "word": "Череп", "category_id": 28 }
   },
   {
     "en": { "word": "Blood", "category_id": 1 },
-    "uk": { "word": "Кров", "category_id": 29 }
+    "uk": { "word": "Кров", "category_id": 28 }
   },
   {
     "en": { "word": "Vein", "category_id": 1 },
-    "uk": { "word": "Вена", "category_id": 29 }
+    "uk": { "word": "Вена", "category_id": 28 }
   },
   {
     "en": { "word": "Artery", "category_id": 1 },
-    "uk": { "word": "Артерія", "category_id": 29 }
+    "uk": { "word": "Артерія", "category_id": 28 }
   },
   {
     "en": { "word": "Stomach", "category_id": 1 },
-    "uk": { "word": "Шлунок", "category_id": 29 }
+    "uk": { "word": "Шлунок", "category_id": 28 }
   },
   {
     "en": { "word": "Intestine", "category_id": 1 },
-    "uk": { "word": "Кишківник", "category_id": 29 }
+    "uk": { "word": "Кишківник", "category_id": 28 }
   },
   {
     "en": { "word": "Pancreas", "category_id": 1 },
-    "uk": { "word": "Підшлункова залоза", "category_id": 29 }
+    "uk": { "word": "Підшлункова залоза", "category_id": 28 }
   },
   {
     "en": { "word": "Gallbladder", "category_id": 1 },
-    "uk": { "word": "Жовчний міхур", "category_id": 29 }
+    "uk": { "word": "Жовчний міхур", "category_id": 28 }
   },
   {
     "en": { "word": "Thyroid", "category_id": 1 },
-    "uk": { "word": "Щитоподібна залоза", "category_id": 29 }
+    "uk": { "word": "Щитоподібна залоза", "category_id": 28 }
   },
   {
     "en": { "word": "Hormone", "category_id": 1 },
-    "uk": { "word": "Гормон", "category_id": 29 }
+    "uk": { "word": "Гормон", "category_id": 28 }
   },
   {
     "en": { "word": "Neuron", "category_id": 1 },
-    "uk": { "word": "Нейрон", "category_id": 29 }
+    "uk": { "word": "Нейрон", "category_id": 28 }
   },
   {
     "en": { "word": "Immune", "category_id": 1 },
-    "uk": { "word": "Імунітет", "category_id": 29 }
+    "uk": { "word": "Імунітет", "category_id": 28 }
   },
   {
     "en": { "word": "Antibody", "category_id": 1 },
-    "uk": { "word": "Антитіло", "category_id": 29 }
+    "uk": { "word": "Антитіло", "category_id": 28 }
   },
   {
     "en": { "word": "Enzyme", "category_id": 1 },
-    "uk": { "word": "Фермент", "category_id": 29 }
+    "uk": { "word": "Фермент", "category_id": 28 }
   },
   {
     "en": { "word": "Gene", "category_id": 1 },
-    "uk": { "word": "Ген", "category_id": 29 }
+    "uk": { "word": "Ген", "category_id": 28 }
   },
   {
     "en": { "word": "DNA", "category_id": 1 },
-    "uk": { "word": "ДНК", "category_id": 29 }
+    "uk": { "word": "ДНК", "category_id": 28 }
   },
   {
     "en": { "word": "RNA", "category_id": 1 },
-    "uk": { "word": "РНК", "category_id": 29 }
+    "uk": { "word": "РНК", "category_id": 28 }
   },
   {
     "en": { "word": "Chromosome", "category_id": 1 },
-    "uk": { "word": "Хромосома", "category_id": 29 }
+    "uk": { "word": "Хромосома", "category_id": 28 }
   },
   {
     "en": { "word": "Receptor", "category_id": 1 },
-    "uk": { "word": "Рецептор", "category_id": 29 }
+    "uk": { "word": "Рецептор", "category_id": 28 }
   },
   {
     "en": { "word": "Cell membrane", "category_id": 1 },
-    "uk": { "word": "Клітинна мембрана", "category_id": 29 }
+    "uk": { "word": "Клітинна мембрана", "category_id": 28 }
   },
   {
     "en": { "word": "Nucleus", "category_id": 1 },
-    "uk": { "word": "Ядро", "category_id": 29 }
+    "uk": { "word": "Ядро", "category_id": 28 }
   },
   {
     "en": { "word": "Mitochondria", "category_id": 1 },
-    "uk": { "word": "Мітохондрія", "category_id": 29 }
+    "uk": { "word": "Мітохондрія", "category_id": 28 }
   },
   {
     "en": { "word": "Ribosome", "category_id": 1 },
-    "uk": { "word": "Рибосома", "category_id": 29 }
+    "uk": { "word": "Рибосома", "category_id": 28 }
   },
   {
     "en": { "word": "Cytoplasm", "category_id": 1 },
-    "uk": { "word": "Цитоплазма", "category_id": 29 }
+    "uk": { "word": "Цитоплазма", "category_id": 28 }
   },
   {
     "en": { "word": "Ovary", "category_id": 1 },
-    "uk": { "word": "Яєчник", "category_id": 29 }
+    "uk": { "word": "Яєчник", "category_id": 28 }
   },
   {
     "en": { "word": "Testicle", "category_id": 1 },
-    "uk": { "word": "Яєчко", "category_id": 29 }
+    "uk": { "word": "Яєчко", "category_id": 28 }
   },
   {
     "en": { "word": "Uterus", "category_id": 1 },
-    "uk": { "word": "Матка", "category_id": 29 }
+    "uk": { "word": "Матка", "category_id": 28 }
   },
   {
     "en": { "word": "Prostate", "category_id": 1 },
-    "uk": { "word": "Простата", "category_id": 29 }
+    "uk": { "word": "Простата", "category_id": 28 }
   },
   {
     "en": { "word": "Placenta", "category_id": 1 },
-    "uk": { "word": "Плацента", "category_id": 29 }
+    "uk": { "word": "Плацента", "category_id": 28 }
   },
   {
     "en": { "word": "Embryo", "category_id": 1 },
-    "uk": { "word": "Ембріон", "category_id": 29 }
+    "uk": { "word": "Ембріон", "category_id": 28 }
   },
   {
     "en": { "word": "Fetus", "category_id": 1 },
-    "uk": { "word": "Плід", "category_id": 29 }
+    "uk": { "word": "Плід", "category_id": 28 }
   },
   {
     "en": { "word": "Puberty", "category_id": 1 },
-    "uk": { "word": "Пубертат", "category_id": 29 }
+    "uk": { "word": "Пубертат", "category_id": 28 }
   },
   {
     "en": { "word": "Adrenal", "category_id": 1 },
-    "uk": { "word": "Наднирник", "category_id": 29 }
+    "uk": { "word": "Наднирник", "category_id": 28 }
   },
   {
     "en": { "word": "Pituitary", "category_id": 1 },
-    "uk": { "word": "Гіпофіз", "category_id": 29 }
+    "uk": { "word": "Гіпофіз", "category_id": 28 }
   },
   {
     "en": { "word": "Hypothalamus", "category_id": 1 },
-    "uk": { "word": "Гіпоталамус", "category_id": 29 }
+    "uk": { "word": "Гіпоталамус", "category_id": 28 }
   },
   {
     "en": { "word": "Axon", "category_id": 1 },
-    "uk": { "word": "Аксон", "category_id": 29 }
+    "uk": { "word": "Аксон", "category_id": 28 }
   },
   {
     "en": { "word": "Dendrite", "category_id": 1 },
-    "uk": { "word": "Дендріт", "category_id": 29 }
+    "uk": { "word": "Дендріт", "category_id": 28 }
   },
   {
     "en": { "word": "Synapse", "category_id": 1 },
-    "uk": { "word": "Синапс", "category_id": 29 }
+    "uk": { "word": "Синапс", "category_id": 28 }
   },
   {
     "en": { "word": "Bone marrow", "category_id": 1 },
-    "uk": { "word": "Кістковий мозок", "category_id": 29 }
+    "uk": { "word": "Кістковий мозок", "category_id": 28 }
   },
   {
     "en": { "word": "Ligament", "category_id": 1 },
-    "uk": { "word": "Зв'язка", "category_id": 29 }
+    "uk": { "word": "Зв'язка", "category_id": 28 }
   },
   {
     "en": { "word": "Tendon", "category_id": 1 },
-    "uk": { "word": "Сухожилля", "category_id": 29 }
+    "uk": { "word": "Сухожилля", "category_id": 28 }
   },
   {
     "en": { "word": "Cartilage", "category_id": 1 },
-    "uk": { "word": "Хрящ", "category_id": 29 }
+    "uk": { "word": "Хрящ", "category_id": 28 }
   },
   {
     "en": { "word": "Epithelial", "category_id": 1 },
-    "uk": { "word": "Епітелій", "category_id": 29 }
+    "uk": { "word": "Епітелій", "category_id": 28 }
   },
   {
     "en": { "word": "Pathogen", "category_id": 1 },
-    "uk": { "word": "Патоген", "category_id": 29 }
+    "uk": { "word": "Патоген", "category_id": 28 }
   },
   {
     "en": { "word": "Bacteria", "category_id": 1 },
-    "uk": { "word": "Бактерія", "category_id": 29 }
+    "uk": { "word": "Бактерія", "category_id": 28 }
   },
   {
     "en": { "word": "Virus", "category_id": 1 },
-    "uk": { "word": "Вірус", "category_id": 29 }
+    "uk": { "word": "Вірус", "category_id": 28 }
   },
   {
     "en": { "word": "Fungus", "category_id": 1 },
-    "uk": { "word": "Грибок", "category_id": 29 }
+    "uk": { "word": "Грибок", "category_id": 28 }
   },
   {
     "en": { "word": "Parasite", "category_id": 1 },
-    "uk": { "word": "Паразит", "category_id": 29 }
+    "uk": { "word": "Паразит", "category_id": 28 }
   },
   {
     "en": { "word": "Infection", "category_id": 1 },
-    "uk": { "word": "Інфекція", "category_id": 29 }
+    "uk": { "word": "Інфекція", "category_id": 28 }
   },
   {
     "en": { "word": "Inflammation", "category_id": 1 },
-    "uk": { "word": "Запалення", "category_id": 29 }
+    "uk": { "word": "Запалення", "category_id": 28 }
   },
   {
     "en": { "word": "Allergy", "category_id": 1 },
-    "uk": { "word": "Алергія", "category_id": 29 }
+    "uk": { "word": "Алергія", "category_id": 28 }
   },
   {
     "en": { "word": "Anemia", "category_id": 1 },
-    "uk": { "word": "Анемія", "category_id": 29 }
+    "uk": { "word": "Анемія", "category_id": 28 }
   },
   {
     "en": { "word": "Cancer", "category_id": 1 },
-    "uk": { "word": "Рак", "category_id": 29 }
+    "uk": { "word": "Рак", "category_id": 28 }
   },
   {
     "en": { "word": "Tumor", "category_id": 1 },
-    "uk": { "word": "Пухлина", "category_id": 29 }
+    "uk": { "word": "Пухлина", "category_id": 28 }
   },
   {
     "en": { "word": "Diabetes", "category_id": 1 },
-    "uk": { "word": "Діабет", "category_id": 29 }
+    "uk": { "word": "Діабет", "category_id": 28 }
   },
   {
     "en": { "word": "Asthma", "category_id": 1 },
-    "uk": { "word": "Астма", "category_id": 29 }
+    "uk": { "word": "Астма", "category_id": 28 }
   },
   {
     "en": { "word": "Arthritis", "category_id": 1 },
-    "uk": { "word": "Артрит", "category_id": 29 }
+    "uk": { "word": "Артрит", "category_id": 28 }
   },
   {
     "en": { "word": "Fracture", "category_id": 1 },
-    "uk": { "word": "Перелом", "category_id": 29 }
+    "uk": { "word": "Перелом", "category_id": 28 }
   },
   {
     "en": { "word": "Sprain", "category_id": 1 },
-    "uk": { "word": "Розтягнення", "category_id": 29 }
+    "uk": { "word": "Розтягнення", "category_id": 28 }
   },
   {
     "en": { "word": "Ulcer", "category_id": 1 },
-    "uk": { "word": "Виразка", "category_id": 29 }
+    "uk": { "word": "Виразка", "category_id": 28 }
   },
   {
     "en": { "word": "Scar", "category_id": 1 },
-    "uk": { "word": "Шрам", "category_id": 29 }
+    "uk": { "word": "Шрам", "category_id": 28 }
   },
   {
     "en": { "word": "Wound", "category_id": 1 },
-    "uk": { "word": "Рана", "category_id": 29 }
+    "uk": { "word": "Рана", "category_id": 28 }
   },
   {
     "en": { "word": "Surgery", "category_id": 1 },
-    "uk": { "word": "Операція", "category_id": 29 }
+    "uk": { "word": "Операція", "category_id": 28 }
   },
   {
     "en": { "word": "Diagnosis", "category_id": 1 },
-    "uk": { "word": "Діагноз", "category_id": 29 }
+    "uk": { "word": "Діагноз", "category_id": 28 }
   },
   {
     "en": { "word": "Therapy", "category_id": 1 },
-    "uk": { "word": "Терапія", "category_id": 29 }
+    "uk": { "word": "Терапія", "category_id": 28 }
   },
   {
     "en": { "word": "Treatment", "category_id": 1 },
-    "uk": { "word": "Лікування", "category_id": 29 }
+    "uk": { "word": "Лікування", "category_id": 28 }
   },
   {
     "en": { "word": "Prescription", "category_id": 1 },
-    "uk": { "word": "Рецепт", "category_id": 29 }
+    "uk": { "word": "Рецепт", "category_id": 28 }
   },
   {
     "en": { "word": "Vaccine", "category_id": 1 },
-    "uk": { "word": "Вакцина", "category_id": 29 }
+    "uk": { "word": "Вакцина", "category_id": 28 }
   },
   {
     "en": { "word": "Antibiotic", "category_id": 1 },
-    "uk": { "word": "Антибіотик", "category_id": 29 }
+    "uk": { "word": "Антибіотик", "category_id": 28 }
   },
   {
     "en": { "word": "Analgesic", "category_id": 1 },
-    "uk": { "word": "Знеболювальне", "category_id": 29 }
+    "uk": { "word": "Знеболювальне", "category_id": 28 }
   },
   {
     "en": { "word": "Sedative", "category_id": 1 },
-    "uk": { "word": "Седативне", "category_id": 29 }
+    "uk": { "word": "Седативне", "category_id": 28 }
   },
   {
     "en": { "word": "Anesthetic", "category_id": 1 },
-    "uk": { "word": "Анестетик", "category_id": 29 }
+    "uk": { "word": "Анестетик", "category_id": 28 }
   },
   {
     "en": { "word": "Immobilization", "category_id": 1 },
-    "uk": { "word": "Іммобілізація", "category_id": 29 }
+    "uk": { "word": "Іммобілізація", "category_id": 28 }
   },
   {
     "en": { "word": "Biopsy", "category_id": 1 },
-    "uk": { "word": "Біопсія", "category_id": 29 }
+    "uk": { "word": "Біопсія", "category_id": 28 }
   },
   {
     "en": { "word": "Transplant", "category_id": 1 },
-    "uk": { "word": "Трансплантація", "category_id": 29 }
+    "uk": { "word": "Трансплантація", "category_id": 28 }
   },
   {
     "en": { "word": "Rehabilitation", "category_id": 1 },
-    "uk": { "word": "Реабілітація", "category_id": 29 }
+    "uk": { "word": "Реабілітація", "category_id": 28 }
   },
   {
     "en": { "word": "Disorder", "category_id": 1 },
-    "uk": { "word": "Розлад", "category_id": 29 }
+    "uk": { "word": "Розлад", "category_id": 28 }
   },
   {
     "en": { "word": "Mutation", "category_id": 1 },
-    "uk": { "word": "Мутація", "category_id": 29 }
+    "uk": { "word": "Мутація", "category_id": 28 }
   },
   {
     "en": { "word": "Metabolism", "category_id": 1 },
-    "uk": { "word": "Метаболізм", "category_id": 29 }
+    "uk": { "word": "Метаболізм", "category_id": 28 }
   },
   {
     "en": { "word": "Homeostasis", "category_id": 1 },
-    "uk": { "word": "Гомеостаз", "category_id": 29 }
+    "uk": { "word": "Гомеостаз", "category_id": 28 }
   },
   {
     "en": { "word": "Secretion", "category_id": 1 },
-    "uk": { "word": "Секреція", "category_id": 29 }
+    "uk": { "word": "Секреція", "category_id": 28 }
   },
   {
     "en": { "word": "Absorption", "category_id": 1 },
-    "uk": { "word": "Абсорбція", "category_id": 29 }
+    "uk": { "word": "Абсорбція", "category_id": 28 }
   },
   {
     "en": { "word": "Excretion", "category_id": 1 },
-    "uk": { "word": "Виділення", "category_id": 29 }
+    "uk": { "word": "Виділення", "category_id": 28 }
   },
   {
     "en": { "word": "Respiration", "category_id": 1 },
-    "uk": { "word": "Дихання", "category_id": 29 }
+    "uk": { "word": "Дихання", "category_id": 28 }
   },
   {
     "en": { "word": "Circulation", "category_id": 1 },
-    "uk": { "word": "Кровообіг", "category_id": 29 }
+    "uk": { "word": "Кровообіг", "category_id": 28 }
   },
   {
     "en": { "word": "Digestion", "category_id": 1 },
-    "uk": { "word": "Травлення", "category_id": 29 }
+    "uk": { "word": "Травлення", "category_id": 28 }
   },
   {
     "en": { "word": "Reproduction", "category_id": 1 },
-    "uk": { "word": "Розмноження", "category_id": 29 }
+    "uk": { "word": "Розмноження", "category_id": 28 }
   },
   {
     "en": { "word": "Ecosystem", "category_id": 1 },
-    "uk": { "word": "Екосистема", "category_id": 29 }
+    "uk": { "word": "Екосистема", "category_id": 28 }
   },
   {
     "en": { "word": "Photosynthesis", "category_id": 1 },
-    "uk": { "word": "Фотосинтез", "category_id": 29 }
+    "uk": { "word": "Фотосинтез", "category_id": 28 }
   },
   {
     "en": { "word": "Chlorophyll", "category_id": 1 },
-    "uk": { "word": "Хлорофіл", "category_id": 29 }
+    "uk": { "word": "Хлорофіл", "category_id": 28 }
   },
   {
     "en": { "word": "Autotroph", "category_id": 1 },
-    "uk": { "word": "Автотроф", "category_id": 29 }
+    "uk": { "word": "Автотроф", "category_id": 28 }
   },
   {
     "en": { "word": "Heterotroph", "category_id": 1 },
-    "uk": { "word": "Гетеротроф", "category_id": 29 }
+    "uk": { "word": "Гетеротроф", "category_id": 28 }
   },
   {
     "en": { "word": "Cell wall", "category_id": 1 },
-    "uk": { "word": "Клітинна стінка", "category_id": 29 }
+    "uk": { "word": "Клітинна стінка", "category_id": 28 }
   },
   {
     "en": { "word": "Flagellum", "category_id": 1 },
-    "uk": { "word": "Джгутик", "category_id": 29 }
+    "uk": { "word": "Джгутик", "category_id": 28 }
   },
   {
     "en": { "word": "Cilia", "category_id": 1 },
-    "uk": { "word": "Вії", "category_id": 29 }
+    "uk": { "word": "Вії", "category_id": 28 }
   },
   {
     "en": { "word": "Lysosome", "category_id": 1 },
-    "uk": { "word": "Лізосома", "category_id": 29 }
+    "uk": { "word": "Лізосома", "category_id": 28 }
   },
   {
     "en": { "word": "Golgi apparatus", "category_id": 1 },
-    "uk": { "word": "Апарат Гольджі", "category_id": 29 }
+    "uk": { "word": "Апарат Гольджі", "category_id": 28 }
   },
   {
     "en": { "word": "Endoplasmic reticulum", "category_id": 1 },
-    "uk": { "word": "Ендоплазматична сітка", "category_id": 29 }
+    "uk": { "word": "Ендоплазматична сітка", "category_id": 28 }
   },
   {
     "en": { "word": "Centrosome", "category_id": 1 },
-    "uk": { "word": "Центросома", "category_id": 29 }
+    "uk": { "word": "Центросома", "category_id": 28 }
   },
   {
     "en": { "word": "Microtubule", "category_id": 1 },
-    "uk": { "word": "Мікротрубочка", "category_id": 29 }
+    "uk": { "word": "Мікротрубочка", "category_id": 28 }
   },
   {
     "en": { "word": "Actin", "category_id": 1 },
-    "uk": { "word": "Актин", "category_id": 29 }
+    "uk": { "word": "Актин", "category_id": 28 }
   },
   {
     "en": { "word": "Myosin", "category_id": 1 },
-    "uk": { "word": "Міозин", "category_id": 29 }
+    "uk": { "word": "Міозин", "category_id": 28 }
   },
   {
     "en": { "word": "Keratin", "category_id": 1 },
-    "uk": { "word": "Кератин", "category_id": 29 }
+    "uk": { "word": "Кератин", "category_id": 28 }
   },
   {
     "en": { "word": "Collagen", "category_id": 1 },
-    "uk": { "word": "Колаген", "category_id": 29 }
+    "uk": { "word": "Колаген", "category_id": 28 }
   },
   {
     "en": { "word": "Elastin", "category_id": 1 },
-    "uk": { "word": "Еластин", "category_id": 29 }
+    "uk": { "word": "Еластин", "category_id": 28 }
   },
   {
     "en": { "word": "Hemoglobin", "category_id": 1 },
-    "uk": { "word": "Гемоглобін", "category_id": 29 }
+    "uk": { "word": "Гемоглобін", "category_id": 28 }
   },
   {
     "en": { "word": "Insulin", "category_id": 1 },
-    "uk": { "word": "Інсулін", "category_id": 29 }
+    "uk": { "word": "Інсулін", "category_id": 28 }
   },
   {
     "en": { "word": "Adrenaline", "category_id": 1 },
-    "uk": { "word": "Адреналін", "category_id": 29 }
+    "uk": { "word": "Адреналін", "category_id": 28 }
   },
   {
     "en": { "word": "Cortisol", "category_id": 1 },
-    "uk": { "word": "Кортизол", "category_id": 29 }
+    "uk": { "word": "Кортизол", "category_id": 28 }
   },
   {
     "en": { "word": "Estrogen", "category_id": 1 },
-    "uk": { "word": "Естроген", "category_id": 29 }
+    "uk": { "word": "Естроген", "category_id": 28 }
   },
   {
     "en": { "word": "Testosterone", "category_id": 1 },
-    "uk": { "word": "Тестостерон", "category_id": 29 }
+    "uk": { "word": "Тестостерон", "category_id": 28 }
   },
   {
     "en": { "word": "Progesterone", "category_id": 1 },
-    "uk": { "word": "Прогестерон", "category_id": 29 }
+    "uk": { "word": "Прогестерон", "category_id": 28 }
   },
   {
     "en": { "word": "Melatonin", "category_id": 1 },
-    "uk": { "word": "Мелатонін", "category_id": 29 }
+    "uk": { "word": "Мелатонін", "category_id": 28 }
   },
   {
     "en": { "word": "Serotonin", "category_id": 1 },
-    "uk": { "word": "Серотонін", "category_id": 29 }
+    "uk": { "word": "Серотонін", "category_id": 28 }
   },
   {
     "en": { "word": "Dopamine", "category_id": 1 },
-    "uk": { "word": "Дофамін", "category_id": 29 }
+    "uk": { "word": "Дофамін", "category_id": 28 }
   },
   {
     "en": { "word": "Histamine", "category_id": 1 },
-    "uk": { "word": "Гістамін", "category_id": 29 }
+    "uk": { "word": "Гістамін", "category_id": 28 }
   },
   {
     "en": { "word": "Plasma", "category_id": 1 },
-    "uk": { "word": "Плазма", "category_id": 29 }
+    "uk": { "word": "Плазма", "category_id": 28 }
   },
   {
     "en": { "word": "Platelet", "category_id": 1 },
-    "uk": { "word": "Тромбоцит", "category_id": 29 }
+    "uk": { "word": "Тромбоцит", "category_id": 28 }
   },
   {
     "en": { "word": "White blood cell", "category_id": 1 },
-    "uk": { "word": "Лейкоцит", "category_id": 29 }
+    "uk": { "word": "Лейкоцит", "category_id": 28 }
   },
   {
     "en": { "word": "Red blood cell", "category_id": 1 },
-    "uk": { "word": "Еритроцит", "category_id": 29 }
+    "uk": { "word": "Еритроцит", "category_id": 28 }
   },
   {
     "en": { "word": "Capillary", "category_id": 1 },
-    "uk": { "word": "Капіляр", "category_id": 29 }
+    "uk": { "word": "Капіляр", "category_id": 28 }
   },
   {
     "en": { "word": "Atrium", "category_id": 1 },
-    "uk": { "word": "Передсердя", "category_id": 29 }
+    "uk": { "word": "Передсердя", "category_id": 28 }
   },
   {
     "en": { "word": "Ventricle", "category_id": 1 },
-    "uk": { "word": "Шлуночок", "category_id": 29 }
+    "uk": { "word": "Шлуночок", "category_id": 28 }
   },
   {
     "en": { "word": "Pulmonary", "category_id": 1 },
-    "uk": { "word": "Легеневий", "category_id": 29 }
+    "uk": { "word": "Легеневий", "category_id": 28 }
   },
   {
     "en": { "word": "Systemic", "category_id": 1 },
-    "uk": { "word": "Системний", "category_id": 29 }
+    "uk": { "word": "Системний", "category_id": 28 }
   },
   {
     "en": { "word": "Hemostasis", "category_id": 1 },
-    "uk": { "word": "Гемостаз", "category_id": 29 }
+    "uk": { "word": "Гемостаз", "category_id": 28 }
   },
   {
     "en": { "word": "Phagocyte", "category_id": 1 },
-    "uk": { "word": "Фагоцит", "category_id": 29 }
+    "uk": { "word": "Фагоцит", "category_id": 28 }
   },
   {
     "en": { "word": "Macrophage", "category_id": 1 },
-    "uk": { "word": "Макрофаг", "category_id": 29 }
+    "uk": { "word": "Макрофаг", "category_id": 28 }
   },
   {
     "en": { "word": "Lymphocyte", "category_id": 1 },
-    "uk": { "word": "Лімфоцит", "category_id": 29 }
+    "uk": { "word": "Лімфоцит", "category_id": 28 }
   },
   {
     "en": { "word": "T cell", "category_id": 1 },
-    "uk": { "word": "Т-клітина", "category_id": 29 }
+    "uk": { "word": "Т-клітина", "category_id": 28 }
   },
   {
     "en": { "word": "B cell", "category_id": 1 },
-    "uk": { "word": "B-клітина", "category_id": 29 }
+    "uk": { "word": "B-клітина", "category_id": 28 }
   },
   {
     "en": { "word": "Natural killer cell", "category_id": 1 },
-    "uk": { "word": "Природна кілер-клітина", "category_id": 29 }
+    "uk": { "word": "Природна кілер-клітина", "category_id": 28 }
   },
   {
     "en": { "word": "Cytokine", "category_id": 1 },
-    "uk": { "word": "Цитокін", "category_id": 29 }
+    "uk": { "word": "Цитокін", "category_id": 28 }
   },
   {
     "en": { "word": "Interferon", "category_id": 1 },
-    "uk": { "word": "Інтерферон", "category_id": 29 }
+    "uk": { "word": "Інтерферон", "category_id": 28 }
   },
   {
     "en": { "word": "Antigen", "category_id": 1 },
-    "uk": { "word": "Антиген", "category_id": 29 }
+    "uk": { "word": "Антиген", "category_id": 28 }
   },
   {
     "en": { "word": "Allergen", "category_id": 1 },
-    "uk": { "word": "Алерген", "category_id": 29 }
+    "uk": { "word": "Алерген", "category_id": 28 }
   },
   {
     "en": { "word": "Pathology", "category_id": 1 },
-    "uk": { "word": "Патологія", "category_id": 29 }
+    "uk": { "word": "Патологія", "category_id": 28 }
   },
   {
     "en": { "word": "Physiology", "category_id": 1 },
-    "uk": { "word": "Фізіологія", "category_id": 29 }
+    "uk": { "word": "Фізіологія", "category_id": 28 }
   },
   {
     "en": { "word": "Anatomy", "category_id": 1 },
-    "uk": { "word": "Анатомія", "category_id": 29 }
+    "uk": { "word": "Анатомія", "category_id": 28 }
   },
   {
     "en": { "word": "Microbiology", "category_id": 1 },
-    "uk": { "word": "Мікробіологія", "category_id": 29 }
+    "uk": { "word": "Мікробіологія", "category_id": 28 }
   },
   {
     "en": { "word": "Genetics", "category_id": 1 },
-    "uk": { "word": "Генетика", "category_id": 29 }
+    "uk": { "word": "Генетика", "category_id": 28 }
   },
   {
     "en": { "word": "Embryology", "category_id": 1 },
-    "uk": { "word": "Ембріологія", "category_id": 29 }
+    "uk": { "word": "Ембріологія", "category_id": 28 }
   },
   {
     "en": { "word": "Zoology", "category_id": 1 },
-    "uk": { "word": "Зоологія", "category_id": 29 }
+    "uk": { "word": "Зоологія", "category_id": 28 }
   },
   {
     "en": { "word": "Botany", "category_id": 1 },
-    "uk": { "word": "Ботаніка", "category_id": 29 }
+    "uk": { "word": "Ботаніка", "category_id": 28 }
   },
   {
     "en": { "word": "Ecology", "category_id": 1 },
-    "uk": { "word": "Екологія", "category_id": 29 }
+    "uk": { "word": "Екологія", "category_id": 28 }
   },
   {
     "en": { "word": "Biochemistry", "category_id": 1 },
-    "uk": { "word": "Біохімія", "category_id": 29 }
+    "uk": { "word": "Біохімія", "category_id": 28 }
   },
   {
     "en": { "word": "Biophysics", "category_id": 1 },
-    "uk": { "word": "Біофізика", "category_id": 29 }
+    "uk": { "word": "Біофізика", "category_id": 28 }
   },
   {
     "en": { "word": "Cytology", "category_id": 1 },
-    "uk": { "word": "Цитологія", "category_id": 29 }
+    "uk": { "word": "Цитологія", "category_id": 28 }
   },
   {
     "en": { "word": "Histology", "category_id": 1 },
-    "uk": { "word": "Гістологія", "category_id": 29 }
+    "uk": { "word": "Гістологія", "category_id": 28 }
   },
   {
     "en": { "word": "Neurobiology", "category_id": 1 },
-    "uk": { "word": "Нейробіологія", "category_id": 29 }
+    "uk": { "word": "Нейробіологія", "category_id": 28 }
   },
   {
     "en": { "word": "Molecular biology", "category_id": 1 },
-    "uk": { "word": "Молекулярна біологія", "category_id": 29 }
+    "uk": { "word": "Молекулярна біологія", "category_id": 28 }
   },
   {
     "en": { "word": "Development", "category_id": 1 },
-    "uk": { "word": "Розвиток", "category_id": 29 }
+    "uk": { "word": "Розвиток", "category_id": 28 }
   },
   {
     "en": { "word": "Growth", "category_id": 1 },
-    "uk": { "word": "Ріст", "category_id": 29 }
+    "uk": { "word": "Ріст", "category_id": 28 }
   },
   {
     "en": { "word": "Differentiation", "category_id": 1 },
-    "uk": { "word": "Диференціація", "category_id": 29 }
+    "uk": { "word": "Диференціація", "category_id": 28 }
   },
   {
     "en": { "word": "Apoptosis", "category_id": 1 },
-    "uk": { "word": "Апоптоз", "category_id": 29 }
+    "uk": { "word": "Апоптоз", "category_id": 28 }
   },
   {
     "en": { "word": "Necrosis", "category_id": 1 },
-    "uk": { "word": "Некроз", "category_id": 29 }
+    "uk": { "word": "Некроз", "category_id": 28 }
   },
   {
     "en": { "word": "Homeotic", "category_id": 1 },
-    "uk": { "word": "Гомеотичний", "category_id": 29 }
+    "uk": { "word": "Гомеотичний", "category_id": 28 }
   },
   {
     "en": { "word": "Operon", "category_id": 1 },
-    "uk": { "word": "Оперон", "category_id": 29 }
+    "uk": { "word": "Оперон", "category_id": 28 }
   },
   {
     "en": { "word": "Promoter", "category_id": 1 },
-    "uk": { "word": "Промотор", "category_id": 29 }
+    "uk": { "word": "Промотор", "category_id": 28 }
   },
   {
     "en": { "word": "Enhancer", "category_id": 1 },
-    "uk": { "word": "Підсилювач", "category_id": 29 }
+    "uk": { "word": "Підсилювач", "category_id": 28 }
   },
   {
     "en": { "word": "Intron", "category_id": 1 },
-    "uk": { "word": "Інтрон", "category_id": 29 }
+    "uk": { "word": "Інтрон", "category_id": 28 }
   },
   {
     "en": { "word": "Exon", "category_id": 1 },
-    "uk": { "word": "Екзон", "category_id": 29 }
+    "uk": { "word": "Екзон", "category_id": 28 }
   },
   {
     "en": { "word": "Replication", "category_id": 1 },
-    "uk": { "word": "Реплікація", "category_id": 29 }
+    "uk": { "word": "Реплікація", "category_id": 28 }
   },
   {
     "en": { "word": "Transcription", "category_id": 1 },
-    "uk": { "word": "Транскрипція", "category_id": 29 }
+    "uk": { "word": "Транскрипція", "category_id": 28 }
   },
   {
     "en": { "word": "Translation", "category_id": 1 },
-    "uk": { "word": "Трансляція", "category_id": 29 }
+    "uk": { "word": "Трансляція", "category_id": 28 }
   },
   {
     "en": { "word": "Splicing", "category_id": 1 },
-    "uk": { "word": "Сплайсинг", "category_id": 29 }
+    "uk": { "word": "Сплайсинг", "category_id": 28 }
   },
   {
     "en": { "word": "Mutation", "category_id": 1 },
-    "uk": { "word": "Мутація", "category_id": 29 }
+    "uk": { "word": "Мутація", "category_id": 28 }
   },
   {
     "en": { "word": "Deletion", "category_id": 1 },
-    "uk": { "word": "Делеція", "category_id": 29 }
+    "uk": { "word": "Делеція", "category_id": 28 }
   },
   {
     "en": { "word": "Insertion", "category_id": 1 },
-    "uk": { "word": "Інсерція", "category_id": 29 }
+    "uk": { "word": "Інсерція", "category_id": 28 }
   },
   {
     "en": { "word": "Substitution", "category_id": 1 },
-    "uk": { "word": "Субституція", "category_id": 29 }
+    "uk": { "word": "Субституція", "category_id": 28 }
   },
   {
     "en": { "word": "Recombination", "category_id": 1 },
-    "uk": { "word": "Рекомбінація", "category_id": 29 }
+    "uk": { "word": "Рекомбінація", "category_id": 28 }
   },
   {
     "en": { "word": "Gene expression", "category_id": 1 },
-    "uk": { "word": "Експресія генів", "category_id": 29 }
+    "uk": { "word": "Експресія генів", "category_id": 28 }
   },
   {
     "en": { "word": "Genotype", "category_id": 1 },
-    "uk": { "word": "Генотип", "category_id": 29 }
+    "uk": { "word": "Генотип", "category_id": 28 }
   },
   {
     "en": { "word": "Phenotype", "category_id": 1 },
-    "uk": { "word": "Фенотип", "category_id": 29 }
+    "uk": { "word": "Фенотип", "category_id": 28 }
   },
   {
     "en": { "word": "Dominant", "category_id": 1 },
-    "uk": { "word": "Домінантний", "category_id": 29 }
+    "uk": { "word": "Домінантний", "category_id": 28 }
   },
   {
     "en": { "word": "Recessive", "category_id": 1 },
-    "uk": { "word": "Рецесивний", "category_id": 29 }
+    "uk": { "word": "Рецесивний", "category_id": 28 }
   },
   {
     "en": { "word": "Allele", "category_id": 1 },
-    "uk": { "word": "Аліль", "category_id": 29 }
+    "uk": { "word": "Аліль", "category_id": 28 }
   },
   {
     "en": { "word": "Homozygous", "category_id": 1 },
-    "uk": { "word": "Гомозиготний", "category_id": 29 }
+    "uk": { "word": "Гомозиготний", "category_id": 28 }
   },
   {
     "en": { "word": "Heterozygous", "category_id": 1 },
-    "uk": { "word": "Гетерозиготний", "category_id": 29 }
+    "uk": { "word": "Гетерозиготний", "category_id": 28 }
   },
   {
     "en": { "word": "Trait", "category_id": 1 },
-    "uk": { "word": "Ознака", "category_id": 29 }
+    "uk": { "word": "Ознака", "category_id": 28 }
   },
   {
     "en": { "word": "Pedigree", "category_id": 1 },
-    "uk": { "word": "Родовід", "category_id": 29 }
+    "uk": { "word": "Родовід", "category_id": 28 }
   },
   {
     "en": { "word": "Karyotype", "category_id": 1 },
-    "uk": { "word": "Каріотип", "category_id": 29 }
+    "uk": { "word": "Каріотип", "category_id": 28 }
   },
   {
     "en": { "word": "Genome", "category_id": 1 },
-    "uk": { "word": "Геном", "category_id": 29 }
+    "uk": { "word": "Геном", "category_id": 28 }
   },
   {
     "en": { "word": "Nucleotide", "category_id": 1 },
-    "uk": { "word": "Нуклеотид", "category_id": 29 }
+    "uk": { "word": "Нуклеотид", "category_id": 28 }
   },
   {
     "en": { "word": "Base pair", "category_id": 1 },
-    "uk": { "word": "Пар основ", "category_id": 29 }
+    "uk": { "word": "Пар основ", "category_id": 28 }
   },
   {
     "en": { "word": "Double helix", "category_id": 1 },
-    "uk": { "word": "Подвійна спіраль", "category_id": 29 }
+    "uk": { "word": "Подвійна спіраль", "category_id": 28 }
   },
   {
     "en": { "word": "Osmosis", "category_id": 1 },
-    "uk": { "word": "Осмос", "category_id": 29 }
+    "uk": { "word": "Осмос", "category_id": 28 }
   },
   {
     "en": { "word": "Diffusion", "category_id": 1 },
-    "uk": { "word": "Дифузія", "category_id": 29 }
+    "uk": { "word": "Дифузія", "category_id": 28 }
   },
   {
     "en": { "word": "Permeability", "category_id": 1 },
-    "uk": { "word": "Проникність", "category_id": 29 }
+    "uk": { "word": "Проникність", "category_id": 28 }
   },
   {
     "en": { "word": "Equilibrium", "category_id": 1 },
-    "uk": { "word": "Рівновага", "category_id": 29 }
+    "uk": { "word": "Рівновага", "category_id": 28 }
   },
   {
     "en": { "word": "Gradient", "category_id": 1 },
-    "uk": { "word": "Градієнт", "category_id": 29 }
+    "uk": { "word": "Градієнт", "category_id": 28 }
   },
   {
     "en": { "word": "Isotope", "category_id": 1 },
-    "uk": { "word": "Ізотоп", "category_id": 29 }
+    "uk": { "word": "Ізотоп", "category_id": 28 }
   },
   {
     "en": { "word": "pH", "category_id": 1 },
-    "uk": { "word": "рН", "category_id": 29 }
+    "uk": { "word": "рН", "category_id": 28 }
   },
   {
     "en": { "word": "Buffer", "category_id": 1 },
-    "uk": { "word": "Буфер", "category_id": 29 }
+    "uk": { "word": "Буфер", "category_id": 28 }
   },
   {
     "en": { "word": "Solvent", "category_id": 1 },
-    "uk": { "word": "Розчинник", "category_id": 29 }
+    "uk": { "word": "Розчинник", "category_id": 28 }
   },
   {
     "en": { "word": "Solute", "category_id": 1 },
-    "uk": { "word": "Розчинена речовина", "category_id": 29 }
+    "uk": { "word": "Розчинена речовина", "category_id": 28 }
   },
   {
     "en": { "word": "Molecule", "category_id": 1 },
-    "uk": { "word": "Молекула", "category_id": 29 }
+    "uk": { "word": "Молекула", "category_id": 28 }
   },
   {
     "en": { "word": "Atom", "category_id": 1 },
-    "uk": { "word": "Атом", "category_id": 29 }
+    "uk": { "word": "Атом", "category_id": 28 }
   },
   {
     "en": { "word": "Ion", "category_id": 1 },
-    "uk": { "word": "Іон", "category_id": 29 }
+    "uk": { "word": "Іон", "category_id": 28 }
   },
   {
     "en": { "word": "Covalent bond", "category_id": 1 },
-    "uk": { "word": "Ковалентний зв'язок", "category_id": 29 }
+    "uk": { "word": "Ковалентний зв'язок", "category_id": 28 }
   },
   {
     "en": { "word": "Ionic bond", "category_id": 1 },
-    "uk": { "word": "Іонний зв'язок", "category_id": 29 }
+    "uk": { "word": "Іонний зв'язок", "category_id": 28 }
   },
   {
     "en": { "word": "Hydrogen bond", "category_id": 1 },
-    "uk": { "word": "Водневий зв'язо", "category_id": 29 }
+    "uk": { "word": "Водневий зв'язо", "category_id": 28 }
   },
   {
     "en": { "word": "Polarity", "category_id": 1 },
-    "uk": { "word": "Полярність", "category_id": 29 }
+    "uk": { "word": "Полярність", "category_id": 28 }
   },
   {
     "en": { "word": "Hydrophobic", "category_id": 1 },
-    "uk": { "word": "Гідрофобний", "category_id": 29 }
+    "uk": { "word": "Гідрофобний", "category_id": 28 }
   },
   {
     "en": { "word": "Hydrophilic", "category_id": 1 },
-    "uk": { "word": "Гідрофільний", "category_id": 29 }
+    "uk": { "word": "Гідрофільний", "category_id": 28 }
   },
   {
     "en": { "word": "Macromolecule", "category_id": 1 },
-    "uk": { "word": "Макромолекула", "category_id": 29 }
+    "uk": { "word": "Макромолекула", "category_id": 28 }
   },
   {
     "en": { "word": "Monomer", "category_id": 1 },
-    "uk": { "word": "Мономер", "category_id": 29 }
+    "uk": { "word": "Мономер", "category_id": 28 }
   },
   {
     "en": { "word": "Polymer", "category_id": 1 },
-    "uk": { "word": "Полімер", "category_id": 29 }
+    "uk": { "word": "Полімер", "category_id": 28 }
   },
   {
     "en": { "word": "Carbohydrate", "category_id": 1 },
-    "uk": { "word": "Вуглевод", "category_id": 29 }
+    "uk": { "word": "Вуглевод", "category_id": 28 }
   },
   {
     "en": { "word": "Lipid", "category_id": 1 },
-    "uk": { "word": "Ліпід", "category_id": 29 }
+    "uk": { "word": "Ліпід", "category_id": 28 }
   },
   {
     "en": { "word": "Protein", "category_id": 1 },
-    "uk": { "word": "Білок", "category_id": 29 }
+    "uk": { "word": "Білок", "category_id": 28 }
   },
   {
     "en": { "word": "Nucleic acid", "category_id": 1 },
-    "uk": { "word": "Нуклеїнова кислота", "category_id": 29 }
+    "uk": { "word": "Нуклеїнова кислота", "category_id": 28 }
   },
   {
     "en": { "word": "Fatty acid", "category_id": 1 },
-    "uk": { "word": "Жирна кислота", "category_id": 29 }
+    "uk": { "word": "Жирна кислота", "category_id": 28 }
   },
   {
     "en": { "word": "Amino acid", "category_id": 1 },
-    "uk": { "word": "Амінокислота", "category_id": 29 }
+    "uk": { "word": "Амінокислота", "category_id": 28 }
   },
   {
     "en": { "word": "Glucose", "category_id": 1 },
-    "uk": { "word": "Глюкоза", "category_id": 29 }
+    "uk": { "word": "Глюкоза", "category_id": 28 }
   },
   {
     "en": { "word": "Fructose", "category_id": 1 },
-    "uk": { "word": "Фруктоза", "category_id": 29 }
+    "uk": { "word": "Фруктоза", "category_id": 28 }
   },
   {
     "en": { "word": "Sucrose", "category_id": 1 },
-    "uk": { "word": "Сахароза", "category_id": 29 }
+    "uk": { "word": "Сахароза", "category_id": 28 }
   },
   {
     "en": { "word": "Lactose", "category_id": 1 },
-    "uk": { "word": "Лактоза", "category_id": 29 }
+    "uk": { "word": "Лактоза", "category_id": 28 }
   },
   {
     "en": { "word": "Starch", "category_id": 1 },
-    "uk": { "word": "Крохмаль", "category_id": 29 }
+    "uk": { "word": "Крохмаль", "category_id": 28 }
   },
   {
     "en": { "word": "Glycogen", "category_id": 1 },
-    "uk": { "word": "Глікоген", "category_id": 29 }
+    "uk": { "word": "Глікоген", "category_id": 28 }
   },
   {
     "en": { "word": "Cellulose", "category_id": 1 },
-    "uk": { "word": "Целюлоза", "category_id": 29 }
+    "uk": { "word": "Целюлоза", "category_id": 28 }
   },
   {
     "en": { "word": "Chitin", "category_id": 1 },
-    "uk": { "word": "Хітин", "category_id": 29 }
+    "uk": { "word": "Хітин", "category_id": 28 }
   },
   {
     "en": { "word": "Triglyceride", "category_id": 1 },
-    "uk": { "word": "Тригліцерид", "category_id": 29 }
+    "uk": { "word": "Тригліцерид", "category_id": 28 }
   },
   {
     "en": { "word": "Steroid", "category_id": 1 },
-    "uk": { "word": "Стероїд", "category_id": 29 }
+    "uk": { "word": "Стероїд", "category_id": 28 }
   },
   {
     "en": { "word": "Cholesterol", "category_id": 1 },
-    "uk": { "word": "Холестерин", "category_id": 29 }
+    "uk": { "word": "Холестерин", "category_id": 28 }
   },
   {
     "en": { "word": "ATP", "category_id": 1 },
-    "uk": { "word": "АТФ", "category_id": 29 }
+    "uk": { "word": "АТФ", "category_id": 28 }
   },
   {
     "en": { "word": "ADP", "category_id": 1 },
-    "uk": { "word": "АДФ", "category_id": 29 }
+    "uk": { "word": "АДФ", "category_id": 28 }
   },
   {
     "en": { "word": "NAD", "category_id": 1 },
-    "uk": { "word": "НАД", "category_id": 29 }
+    "uk": { "word": "НАД", "category_id": 28 }
   },
   {
     "en": { "word": "FAD", "category_id": 1 },
-    "uk": { "word": "ФАД", "category_id": 29 }
+    "uk": { "word": "ФАД", "category_id": 28 }
   },
   {
     "en": { "word": "Metabolic pathway", "category_id": 1 },
-    "uk": { "word": "Метаболічний шлях", "category_id": 29 }
+    "uk": { "word": "Метаболічний шлях", "category_id": 28 }
   },
   {
     "en": { "word": "Glycolysis", "category_id": 1 },
-    "uk": { "word": "Гліколіз", "category_id": 29 }
+    "uk": { "word": "Гліколіз", "category_id": 28 }
   },
   {
     "en": { "word": "Krebs cycle", "category_id": 1 },
-    "uk": { "word": "Цикл Кребса", "category_id": 29 }
+    "uk": { "word": "Цикл Кребса", "category_id": 28 }
   },
   {
     "en": { "word": "Electron transport chain", "category_id": 1 },
-    "uk": { "word": "Ланцюг переносу електронів", "category_id": 29 }
+    "uk": { "word": "Ланцюг переносу електронів", "category_id": 28 }
   },
   {
     "en": { "word": "Photosystem", "category_id": 1 },
-    "uk": { "word": "Фотосистема", "category_id": 29 }
+    "uk": { "word": "Фотосистема", "category_id": 28 }
   },
   {
     "en": { "word": "Light reaction", "category_id": 1 },
-    "uk": { "word": "Світлова реакція", "category_id": 29 }
+    "uk": { "word": "Світлова реакція", "category_id": 28 }
   },
   {
     "en": { "word": "Calvin cycle", "category_id": 1 },
-    "uk": { "word": "Цикл Кальвіна", "category_id": 29 }
+    "uk": { "word": "Цикл Кальвіна", "category_id": 28 }
   },
   {
     "en": { "word": "Chloroplast", "category_id": 1 },
-    "uk": { "word": "Хлоропласт", "category_id": 29 }
+    "uk": { "word": "Хлоропласт", "category_id": 28 }
   },
   {
     "en": { "word": "Thylakoid", "category_id": 1 },
-    "uk": { "word": "Тилакоїд", "category_id": 29 }
+    "uk": { "word": "Тилакоїд", "category_id": 28 }
   },
   {
     "en": { "word": "Granum", "category_id": 1 },
-    "uk": { "word": "Грана", "category_id": 29 }
+    "uk": { "word": "Грана", "category_id": 28 }
   },
   {
     "en": { "word": "Stroma", "category_id": 1 },
-    "uk": { "word": "Строма", "category_id": 29 }
+    "uk": { "word": "Строма", "category_id": 28 }
   },
   {
     "en": { "word": "Aerobic", "category_id": 1 },
-    "uk": { "word": "Аеробний", "category_id": 29 }
+    "uk": { "word": "Аеробний", "category_id": 28 }
   },
   {
     "en": { "word": "Anaerobic", "category_id": 1 },
-    "uk": { "word": "Анаеробний", "category_id": 29 }
+    "uk": { "word": "Анаеробний", "category_id": 28 }
   },
   {
     "en": { "word": "Fermentation", "category_id": 1 },
-    "uk": { "word": "Ферментація", "category_id": 29 }
+    "uk": { "word": "Ферментація", "category_id": 28 }
   },
   {
     "en": { "word": "Lactic acid", "category_id": 1 },
-    "uk": { "word": "Молочна кислота", "category_id": 29 }
+    "uk": { "word": "Молочна кислота", "category_id": 28 }
   },
   {
     "en": { "word": "Ethanol", "category_id": 1 },
-    "uk": { "word": "Етанол", "category_id": 29 }
+    "uk": { "word": "Етанол", "category_id": 28 }
   },
   {
     "en": { "word": "Prokaryote", "category_id": 1 },
-    "uk": { "word": "Прокаріот", "category_id": 29 }
+    "uk": { "word": "Прокаріот", "category_id": 28 }
   },
   {
     "en": { "word": "Eukaryote", "category_id": 1 },
-    "uk": { "word": "Еукаріот", "category_id": 29 }
+    "uk": { "word": "Еукаріот", "category_id": 28 }
   },
   {
     "en": { "word": "Binary fission", "category_id": 1 },
-    "uk": { "word": "Бінарне поділ", "category_id": 29 }
+    "uk": { "word": "Бінарне поділ", "category_id": 28 }
   },
   {
     "en": { "word": "Mitosis", "category_id": 1 },
-    "uk": { "word": "Мітоз", "category_id": 29 }
+    "uk": { "word": "Мітоз", "category_id": 28 }
   },
   {
     "en": { "word": "Meiosis", "category_id": 1 },
-    "uk": { "word": "Мейоз", "category_id": 29 }
+    "uk": { "word": "Мейоз", "category_id": 28 }
   },
   {
     "en": { "word": "Interphase", "category_id": 1 },
-    "uk": { "word": "Інтерфаза", "category_id": 29 }
+    "uk": { "word": "Інтерфаза", "category_id": 28 }
   },
   {
     "en": { "word": "Prophase", "category_id": 1 },
-    "uk": { "word": "Профаза", "category_id": 29 }
+    "uk": { "word": "Профаза", "category_id": 28 }
   },
   {
     "en": { "word": "Metaphase", "category_id": 1 },
-    "uk": { "word": "Метафаза", "category_id": 29 }
+    "uk": { "word": "Метафаза", "category_id": 28 }
   },
   {
     "en": { "word": "Anaphase", "category_id": 1 },
-    "uk": { "word": "Анафаза", "category_id": 29 }
+    "uk": { "word": "Анафаза", "category_id": 28 }
   },
   {
     "en": { "word": "Telophase", "category_id": 1 },
-    "uk": { "word": "Телофаза", "category_id": 29 }
+    "uk": { "word": "Телофаза", "category_id": 28 }
   },
   {
     "en": { "word": "Cytokinesis", "category_id": 1 },
-    "uk": { "word": "Цитокінез", "category_id": 29 }
+    "uk": { "word": "Цитокінез", "category_id": 28 }
   },
   {
     "en": { "word": "Centromere", "category_id": 1 },
-    "uk": { "word": "Центромера", "category_id": 29 }
+    "uk": { "word": "Центромера", "category_id": 28 }
   },
   {
     "en": { "word": "Chromatid", "category_id": 1 },
-    "uk": { "word": "Хроматида", "category_id": 29 }
+    "uk": { "word": "Хроматида", "category_id": 28 }
   },
   {
     "en": { "word": "Spindle fiber", "category_id": 1 },
-    "uk": { "word": "Мітичне веретено", "category_id": 29 }
+    "uk": { "word": "Мітичне веретено", "category_id": 28 }
   },
   {
     "en": { "word": "Crossing over", "category_id": 1 },
-    "uk": { "word": "Кросинговер", "category_id": 29 }
+    "uk": { "word": "Кросинговер", "category_id": 28 }
   },
   {
     "en": { "word": "Independent assortment", "category_id": 1 },
-    "uk": { "word": "Незалежне розміщення", "category_id": 29 }
+    "uk": { "word": "Незалежне розміщення", "category_id": 28 }
   },
   {
     "en": { "word": "Zygote", "category_id": 1 },
-    "uk": { "word": "Зигота", "category_id": 29 }
+    "uk": { "word": "Зигота", "category_id": 28 }
   },
   {
     "en": { "word": "Blastula", "category_id": 1 },
-    "uk": { "word": "Бластула", "category_id": 29 }
+    "uk": { "word": "Бластула", "category_id": 28 }
   },
   {
     "en": { "word": "Gastrula", "category_id": 1 },
-    "uk": { "word": "Гаструла", "category_id": 29 }
+    "uk": { "word": "Гаструла", "category_id": 28 }
   },
   {
     "en": { "word": "Morula", "category_id": 1 },
-    "uk": { "word": "Морула", "category_id": 29 }
+    "uk": { "word": "Морула", "category_id": 28 }
   },
   {
     "en": { "word": "Tissue culture", "category_id": 1 },
-    "uk": { "word": "Тканинна культура", "category_id": 29 }
+    "uk": { "word": "Тканинна культура", "category_id": 28 }
   },
   {
     "en": { "word": "Stem cell", "category_id": 1 },
-    "uk": { "word": "Стволова клітина", "category_id": 29 }
+    "uk": { "word": "Стволова клітина", "category_id": 28 }
   },
   {
     "en": { "word": "Cloning", "category_id": 1 },
-    "uk": { "word": "Клонування", "category_id": 29 }
+    "uk": { "word": "Клонування", "category_id": 28 }
   },
   {
     "en": { "word": "Genetic engineering", "category_id": 1 },
-    "uk": { "word": "Генетична інженерія", "category_id": 29 }
+    "uk": { "word": "Генетична інженерія", "category_id": 28 }
   },
   {
     "en": { "word": "CRISPR", "category_id": 1 },
-    "uk": { "word": "CRISPR", "category_id": 29 }
+    "uk": { "word": "CRISPR", "category_id": 28 }
   },
   {
     "en": { "word": "Genome editing", "category_id": 1 },
-    "uk": { "word": "Редагування геному", "category_id": 29 }
+    "uk": { "word": "Редагування геному", "category_id": 28 }
   },
   {
     "en": { "word": "Bioinformatics", "category_id": 1 },
-    "uk": { "word": "Біоінформатика", "category_id": 29 }
+    "uk": { "word": "Біоінформатика", "category_id": 28 }
   },
   {
     "en": { "word": "Proteomics", "category_id": 1 },
-    "uk": { "word": "Протеоміка", "category_id": 29 }
+    "uk": { "word": "Протеоміка", "category_id": 28 }
   },
   {
     "en": { "word": "Transcriptomics", "category_id": 1 },
-    "uk": { "word": "Транскриптоміка", "category_id": 29 }
+    "uk": { "word": "Транскриптоміка", "category_id": 28 }
   },
   {
     "en": { "word": "Epigenetics", "category_id": 1 },
-    "uk": { "word": "Епігенетика", "category_id": 29 }
+    "uk": { "word": "Епігенетика", "category_id": 28 }
   },
   {
     "en": { "word": "Biomarker", "category_id": 1 },
-    "uk": { "word": "Біомаркер", "category_id": 29 }
+    "uk": { "word": "Біомаркер", "category_id": 28 }
   },
   {
     "en": { "word": "Bioreactor", "category_id": 1 },
-    "uk": { "word": "Біореактор", "category_id": 29 }
+    "uk": { "word": "Біореактор", "category_id": 28 }
   },
   {
     "en": { "word": "Biodegradable", "category_id": 1 },
-    "uk": { "word": "Біорозкладний", "category_id": 29 }
+    "uk": { "word": "Біорозкладний", "category_id": 28 }
   },
   {
     "en": { "word": "Symbiosis", "category_id": 1 },
-    "uk": { "word": "Симбіоз", "category_id": 29 }
+    "uk": { "word": "Симбіоз", "category_id": 28 }
   },
   {
     "en": { "word": "Mutualism", "category_id": 1 },
-    "uk": { "word": "Мутуалізм", "category_id": 29 }
+    "uk": { "word": "Мутуалізм", "category_id": 28 }
   },
   {
     "en": { "word": "Commensalism", "category_id": 1 },
-    "uk": { "word": "Коменсалізм", "category_id": 29 }
+    "uk": { "word": "Коменсалізм", "category_id": 28 }
   },
   {
     "en": { "word": "Parasitism", "category_id": 1 },
-    "uk": { "word": "Паразитизм", "category_id": 29 }
+    "uk": { "word": "Паразитизм", "category_id": 28 }
   },
   {
     "en": { "word": "Predation", "category_id": 1 },
-    "uk": { "word": "Хижацтво", "category_id": 29 }
+    "uk": { "word": "Хижацтво", "category_id": 28 }
   },
   {
     "en": { "word": "Adaptation", "category_id": 1 },
-    "uk": { "word": "Адаптація", "category_id": 29 }
+    "uk": { "word": "Адаптація", "category_id": 28 }
   },
   {
     "en": { "word": "Natural selection", "category_id": 1 },
-    "uk": { "word": "Природний відбір", "category_id": 29 }
+    "uk": { "word": "Природний відбір", "category_id": 28 }
   },
   {
     "en": { "word": "Evolution", "category_id": 1 },
-    "uk": { "word": "Еволюція", "category_id": 29 }
+    "uk": { "word": "Еволюція", "category_id": 28 }
   },
   {
     "en": { "word": "Speciation", "category_id": 1 },
-    "uk": { "word": "Спеціація", "category_id": 29 }
+    "uk": { "word": "Спеціація", "category_id": 28 }
   },
   {
     "en": { "word": "Extinction", "category_id": 1 },
-    "uk": { "word": "Вимирання", "category_id": 29 }
+    "uk": { "word": "Вимирання", "category_id": 28 }
   },
   {
     "en": { "word": "Phylogeny", "category_id": 1 },
-    "uk": { "word": "Філогенія", "category_id": 29 }
+    "uk": { "word": "Філогенія", "category_id": 28 }
   },
   {
     "en": { "word": "Cladistics", "category_id": 1 },
-    "uk": { "word": "Кладистика", "category_id": 29 }
+    "uk": { "word": "Кладистика", "category_id": 28 }
   },
   {
     "en": { "word": "Taxonomy", "category_id": 1 },
-    "uk": { "word": "Таксономія", "category_id": 29 }
+    "uk": { "word": "Таксономія", "category_id": 28 }
   },
   {
     "en": { "word": "Biodiversity", "category_id": 1 },
-    "uk": { "word": "Біорізноманіття", "category_id": 29 }
+    "uk": { "word": "Біорізноманіття", "category_id": 28 }
   },
   {
     "en": { "word": "Biome", "category_id": 1 },
-    "uk": { "word": "Біом", "category_id": 29 }
+    "uk": { "word": "Біом", "category_id": 28 }
   },
   {
     "en": { "word": "Habitat", "category_id": 1 },
-    "uk": { "word": "Середовище існування", "category_id": 29 }
+    "uk": { "word": "Середовище існування", "category_id": 28 }
   },
   {
     "en": { "word": "Niche", "category_id": 1 },
-    "uk": { "word": "Ніша", "category_id": 29 }
+    "uk": { "word": "Ніша", "category_id": 28 }
   },
   {
     "en": { "word": "Population", "category_id": 1 },
-    "uk": { "word": "Популяція", "category_id": 29 }
+    "uk": { "word": "Популяція", "category_id": 28 }
   },
   {
     "en": { "word": "Community", "category_id": 1 },
-    "uk": { "word": "Спільнота", "category_id": 29 }
+    "uk": { "word": "Спільнота", "category_id": 28 }
   },
   {
     "en": { "word": "Food chain", "category_id": 1 },
-    "uk": { "word": "Трофічний ланцюг", "category_id": 29 }
+    "uk": { "word": "Трофічний ланцюг", "category_id": 28 }
   },
   {
     "en": { "word": "Food web", "category_id": 1 },
-    "uk": { "word": "Трофічна мережа", "category_id": 29 }
+    "uk": { "word": "Трофічна мережа", "category_id": 28 }
   },
   {
     "en": { "word": "Neuron", "category_id": 1 },
-    "uk": { "word": "Нейрон", "category_id": 29 }
+    "uk": { "word": "Нейрон", "category_id": 28 }
   },
   {
     "en": { "word": "Axon", "category_id": 1 },
-    "uk": { "word": "Аксон", "category_id": 29 }
+    "uk": { "word": "Аксон", "category_id": 28 }
   },
   {
     "en": { "word": "Dendrite", "category_id": 1 },
-    "uk": { "word": "Дендріт", "category_id": 29 }
+    "uk": { "word": "Дендріт", "category_id": 28 }
   },
   {
     "en": { "word": "Synapse", "category_id": 1 },
-    "uk": { "word": "Синапс", "category_id": 29 }
+    "uk": { "word": "Синапс", "category_id": 28 }
   },
   {
     "en": { "word": "Receptor", "category_id": 1 },
-    "uk": { "word": "Рецептор", "category_id": 29 }
+    "uk": { "word": "Рецептор", "category_id": 28 }
   },
   {
     "en": { "word": "Hormone", "category_id": 1 },
-    "uk": { "word": "Гормон", "category_id": 29 }
+    "uk": { "word": "Гормон", "category_id": 28 }
   },
   {
     "en": { "word": "Enzyme", "category_id": 1 },
-    "uk": { "word": "Фермент", "category_id": 29 }
+    "uk": { "word": "Фермент", "category_id": 28 }
   },
   {
     "en": { "word": "Protein", "category_id": 1 },
-    "uk": { "word": "Білок", "category_id": 29 }
+    "uk": { "word": "Білок", "category_id": 28 }
   },
   {
     "en": { "word": "Gene", "category_id": 1 },
-    "uk": { "word": "Ген", "category_id": 29 }
+    "uk": { "word": "Ген", "category_id": 28 }
   },
   {
     "en": { "word": "Chromosome", "category_id": 1 },
-    "uk": { "word": "Хромосома", "category_id": 29 }
+    "uk": { "word": "Хромосома", "category_id": 28 }
   },
   {
     "en": { "word": "DNA", "category_id": 1 },
-    "uk": { "word": "ДНК", "category_id": 29 }
+    "uk": { "word": "ДНК", "category_id": 28 }
   },
   {
     "en": { "word": "RNA", "category_id": 1 },
-    "uk": { "word": "РНК", "category_id": 29 }
+    "uk": { "word": "РНК", "category_id": 28 }
   },
   {
     "en": { "word": "Antibody", "category_id": 1 },
-    "uk": { "word": "Антитіло", "category_id": 29 }
+    "uk": { "word": "Антитіло", "category_id": 28 }
   },
   {
     "en": { "word": "Antigen", "category_id": 1 },
-    "uk": { "word": "Антиген", "category_id": 29 }
+    "uk": { "word": "Антиген", "category_id": 28 }
   },
   {
     "en": { "word": "Pathogen", "category_id": 1 },
-    "uk": { "word": "Патоген", "category_id": 29 }
+    "uk": { "word": "Патоген", "category_id": 28 }
   },
   {
     "en": { "word": "Cell", "category_id": 1 },
-    "uk": { "word": "Клітина", "category_id": 29 }
+    "uk": { "word": "Клітина", "category_id": 28 }
   },
   {
     "en": { "word": "Nucleus", "category_id": 1 },
-    "uk": { "word": "Ядро", "category_id": 29 }
+    "uk": { "word": "Ядро", "category_id": 28 }
   },
   {
     "en": { "word": "Mitochondria", "category_id": 1 },
-    "uk": { "word": "Мітохондрія", "category_id": 29 }
+    "uk": { "word": "Мітохондрія", "category_id": 28 }
   },
   {
     "en": { "word": "Lysosome", "category_id": 1 },
-    "uk": { "word": "Лізосома", "category_id": 29 }
+    "uk": { "word": "Лізосома", "category_id": 28 }
   },
   {
     "en": { "word": "Ribosome", "category_id": 1 },
-    "uk": { "word": "Рибосома", "category_id": 29 }
+    "uk": { "word": "Рибосома", "category_id": 28 }
   },
   {
     "en": { "word": "Membrane", "category_id": 1 },
-    "uk": { "word": "Мембрана", "category_id": 29 }
+    "uk": { "word": "Мембрана", "category_id": 28 }
   },
   {
     "en": { "word": "Organelle", "category_id": 1 },
-    "uk": { "word": "Органела", "category_id": 29 }
+    "uk": { "word": "Органела", "category_id": 28 }
   },
   {
     "en": { "word": "Cytoplasm", "category_id": 1 },
-    "uk": { "word": "Цитоплазма", "category_id": 29 }
+    "uk": { "word": "Цитоплазма", "category_id": 28 }
   },
   {
     "en": { "word": "Tissue", "category_id": 1 },
-    "uk": { "word": "Тканина", "category_id": 29 }
+    "uk": { "word": "Тканина", "category_id": 28 }
   },
   {
     "en": { "word": "Organ", "category_id": 1 },
-    "uk": { "word": "Орган", "category_id": 29 }
+    "uk": { "word": "Орган", "category_id": 28 }
   },
   {
     "en": { "word": "Organism", "category_id": 1 },
-    "uk": { "word": "Організм", "category_id": 29 }
+    "uk": { "word": "Організм", "category_id": 28 }
   },
   {
     "en": { "word": "Species", "category_id": 1 },
-    "uk": { "word": "Вид", "category_id": 29 }
+    "uk": { "word": "Вид", "category_id": 28 }
   },
   {
     "en": { "word": "Genus", "category_id": 1 },
-    "uk": { "word": "Рід", "category_id": 29 }
+    "uk": { "word": "Рід", "category_id": 28 }
   },
   {
     "en": { "word": "Family", "category_id": 1 },
-    "uk": { "word": "Родина", "category_id": 29 }
+    "uk": { "word": "Родина", "category_id": 28 }
   },
   {
     "en": { "word": "Order", "category_id": 1 },
-    "uk": { "word": "Ряд", "category_id": 29 }
+    "uk": { "word": "Ряд", "category_id": 28 }
   }
 ]
