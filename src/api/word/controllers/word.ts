@@ -47,7 +47,7 @@ export default factories.createCoreController(
             },
             populate: {
               categories: {
-                fields: ["id"],
+                fields: ["id", "name"],
               },
             },
             sort: ["updatedAt:asc"],
@@ -60,7 +60,7 @@ export default factories.createCoreController(
         })
       );
 
-      let wordsFromArray = Math.floor(wordsCount / categoriesArray.length);
+      let wordsFromArray = Math.round(wordsCount / categoriesArray.length);
 
       const chosenWords = wordsByCategories.reduce((acc, words, idx) => {
         if (acc.length >= wordsCount) {
@@ -79,7 +79,13 @@ export default factories.createCoreController(
         return acc;
       }, []);
 
-      const sanitizedResults = await this.sanitizeOutput(chosenWords, ctx);
+      const formattedWords = chosenWords.map(({ id, name, categories }) => ({
+        id,
+        name,
+        categories: categories.map((category) => category.name),
+      }));
+
+      const sanitizedResults = await this.sanitizeOutput(formattedWords, ctx);
 
       return this.transformResponse(sanitizedResults);
     },
