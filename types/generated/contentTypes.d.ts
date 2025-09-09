@@ -414,9 +414,40 @@ export interface ApiCategoryCategory extends Struct.CollectionTypeSchema {
   };
 }
 
+export interface ApiExplanationExplanation extends Struct.CollectionTypeSchema {
+  collectionName: 'explanations';
+  info: {
+    displayName: 'Explanation';
+    pluralName: 'explanations';
+    singularName: 'explanation';
+  };
+  options: {
+    draftAndPublish: true;
+  };
+  attributes: {
+    createdAt: Schema.Attribute.DateTime;
+    createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    description: Schema.Attribute.String;
+    image: Schema.Attribute.Media<'images' | 'files' | 'videos' | 'audios'>;
+    locale: Schema.Attribute.String & Schema.Attribute.Private;
+    localizations: Schema.Attribute.Relation<
+      'oneToMany',
+      'api::explanation.explanation'
+    > &
+      Schema.Attribute.Private;
+    publishedAt: Schema.Attribute.DateTime;
+    updatedAt: Schema.Attribute.DateTime;
+    updatedBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
+      Schema.Attribute.Private;
+    word: Schema.Attribute.Relation<'oneToOne', 'api::word.word'>;
+  };
+}
+
 export interface ApiWordWord extends Struct.CollectionTypeSchema {
   collectionName: 'words';
   info: {
+    description: '';
     displayName: 'Word';
     pluralName: 'words';
     singularName: 'word';
@@ -437,6 +468,10 @@ export interface ApiWordWord extends Struct.CollectionTypeSchema {
     createdAt: Schema.Attribute.DateTime;
     createdBy: Schema.Attribute.Relation<'oneToOne', 'admin::user'> &
       Schema.Attribute.Private;
+    explanation: Schema.Attribute.Relation<
+      'oneToOne',
+      'api::explanation.explanation'
+    >;
     locale: Schema.Attribute.String;
     localizations: Schema.Attribute.Relation<'oneToMany', 'api::word.word'>;
     name: Schema.Attribute.String &
@@ -963,6 +998,7 @@ declare module '@strapi/strapi' {
       'admin::transfer-token-permission': AdminTransferTokenPermission;
       'admin::user': AdminUser;
       'api::category.category': ApiCategoryCategory;
+      'api::explanation.explanation': ApiExplanationExplanation;
       'api::word.word': ApiWordWord;
       'plugin::content-releases.release': PluginContentReleasesRelease;
       'plugin::content-releases.release-action': PluginContentReleasesReleaseAction;

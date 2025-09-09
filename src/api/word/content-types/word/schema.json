@@ -4,7 +4,8 @@
   "info": {
     "singularName": "word",
     "pluralName": "words",
-    "displayName": "Word"
+    "displayName": "Word",
+    "description": ""
   },
   "options": {
     "draftAndPublish": false
@@ -29,6 +30,12 @@
       "relation": "manyToMany",
       "target": "api::category.category",
       "inversedBy": "words"
+    },
+    "explanation": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::explanation.explanation",
+      "inversedBy": "word"
     }
   }
 }

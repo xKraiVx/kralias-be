@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "explanations",
+  "info": {
+    "singularName": "explanation",
+    "pluralName": "explanations",
+    "displayName": "Explanation"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "description": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "word": {
+      "type": "relation",
+      "relation": "oneToOne",
+      "target": "api::word.word",
+      "mappedBy": "explanation"
+    }
+  }
+}
